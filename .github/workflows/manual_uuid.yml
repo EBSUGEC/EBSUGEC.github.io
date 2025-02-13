@@ -1,4 +1,4 @@
-name: Force check every file for UUID and add it if missing
+name: Ajouter manuellement les uuid manquants
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
 
       - name: run script
         run: |
-          python3.12 add_uuid_to_md_missing_one.py
+          python3.12 scripts/add_uuid_to_md_missing_one.py
 
       - name: Check for changes
         id: git-check
