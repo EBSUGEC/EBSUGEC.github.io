@@ -1,9 +1,12 @@
 ---
 uuid: 7390b988-ca52-4fdb-9eb0-293fe05b728d
-PrettyName: "Queer"
+prettyName: "Queer"
 title: "Queer"
 abstract: "Queer est un mot emprunté de l'anglais ; signifiant à l'origine « étrange », « peu commun » ou « bizarre », il est utilisé de manière péjorative, neutre ou méliorative pour désigner tout ou partie des minorités sexuelles et de genres, c'est-à-dire les personnes ayant une orientation sexuelle ou une identité de genre différentes de l'hétérosexualité ou de la cisidentité."
-tags: sexualité, identité, glossaire
+tags: 
+    - sexualité
+    - identité
+    - glossaire
 ---
 
 ## Histoire
