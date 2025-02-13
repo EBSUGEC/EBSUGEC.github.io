@@ -1,4 +1,6 @@
 ---
+uuid: 338ef220-23d0-4aa8-90d3-45277fab3e52
+
 title: "Kimberlé Crenshaw : Intersectionnalité"
 prettyName: "crenshaw_intersectionnalite"
 abstract: "Une fiche de lecture pour découvrir l'oeuvre de K. Crenshaw"
