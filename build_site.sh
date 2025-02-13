@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Définir le repository à cloner et le dossier cible
-REPO_URL="https://github.com/CERES-Sorbonne/SiteGenerator.git"
+REPO_URL="https://github.com/EBSUGEC/StructureSite.git"
 TARGET_DIR="code"
 
 # Cloner le repository
