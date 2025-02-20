@@ -9,6 +9,8 @@ tags:
     - glossaire
 ---
 
+![](800px-Queer_Riot.jpg)
+
 ## Histoire
 
 ### En anglais

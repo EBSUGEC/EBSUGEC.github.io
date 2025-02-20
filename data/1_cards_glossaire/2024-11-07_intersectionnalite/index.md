@@ -15,8 +15,9 @@ L’intersectionnalité (de l'anglais intersectionality) ou intersectionnalisme 
 
 Le terme a été proposé par l'universitaire afroféministe américaine Kimberlé Williams Crenshaw en 19891 pour parler spécifiquement de l'intersection entre le sexisme et le racisme subis par les femmes afro-américaines, pour en évaluer les conséquences en matière de pouvoir, et expliquer pourquoi ces femmes n'étaient pas prises en compte dans les discours féministes de l'époque2. Le sens du terme a depuis été élargi, dans les années 2010, avec la montée du cybermilitantisme et englobe désormais toutes les formes de discriminations qui peuvent s'entrecroiser.
 
-Cette notion est une importante contribution théorique des études sur le féminisme. Pour ses partisans, elle permet aux modèles de réflexion d'aborder la complexité du monde tout en maintenant l'élan politique qui porte la plupart des actrices et acteurs de ce milieu3. 
+Cette notion est une importante contribution théorique des études sur le féminisme. Pour ses partisans, elle permet aux modèles de réflexion d'aborder la complexité du monde tout en maintenant l'élan politique qui porte la plupart des actrices et acteurs de ce milieu. 
 
+![Femmes noires américaines travaillant dans une usine pendant la Seconde Guerre mondiale en 1943 et pouvant à la fois être victimes de sexisme, de classisme et de racisme.](Alfred_T._Palmer_bolt_cutting.jpg)
 
 ## Histoire de la notion
 
