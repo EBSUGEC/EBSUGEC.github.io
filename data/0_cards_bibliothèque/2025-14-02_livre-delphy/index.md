@@ -2,7 +2,7 @@
 uuid: dbcf7f9b-90f4-444f-a756-9c2a81f7aea7
 
 title: "Christine Delphy : L'ennemi principal"
-# prettyName: "delphy_ennemi_principal"
+prettyName: "delphy_ennemi_principal"
 abstract: "Une fiche de lecture pour découvrir l'oeuvre de C. Delphy"
 tags: 
     - fiche de lecture
