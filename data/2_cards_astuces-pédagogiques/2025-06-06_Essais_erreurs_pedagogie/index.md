@@ -1,9 +1,8 @@
 ---
-uuid: 71702256-9df4-4fdc-83bd-790819cb1b7f
+uuid: 0c2ae5c2-2b86-4e5f-b332-a9a048c8048e
 
-title: "séminaire autogéré"
+title: "Essais-erreurs autour d'une pédagogie active, ludique et bienveillante"
 author: 
-    - 
 ---
 
 Une ressource recommandée, rédigée par :
