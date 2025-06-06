@@ -1,0 +1,4 @@
+---
+title: "séminaire autogéré"
+author: 
+---
