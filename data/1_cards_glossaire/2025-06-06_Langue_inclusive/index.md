@@ -1,6 +1,6 @@
 ---
 title: "Langue inclusive"
-author: marionvergues,clemencedoumenges,blancheturck
+author: marionverguesclemencedoumengesblancheturck
 tags:
     - littérature/linguistique
     - langues

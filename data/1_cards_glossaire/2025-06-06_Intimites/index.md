@@ -1,6 +1,6 @@
 ---
 title: "Intimités"
-author: IreneGimenez,ClaireLiseGaillard
+author: IreneGimenezClaireLiseGaillard
 tags:
     - histoire/civilisation/archéologie
     - époque contemporaine

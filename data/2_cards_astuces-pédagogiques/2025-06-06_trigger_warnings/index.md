@@ -1,6 +1,6 @@
 ---
 title: "trigger warnings"
-author: AuroreTurbiau+?
+author: AuroreTurbiau
 tags:
     - violences
 ---

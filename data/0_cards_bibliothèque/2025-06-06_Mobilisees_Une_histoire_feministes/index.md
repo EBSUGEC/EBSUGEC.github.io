@@ -1,6 +1,6 @@
 ---
 title: "Mobilisées. Une histoire féministes des mobilisations populaires de Fanny Gallot"
-author: ChloeButon,CamilleCourgeon
+author: ChloeButonCamilleCourgeon
 tags:
     - histoire/civilisation/archéologie
     - sociologie/science politique

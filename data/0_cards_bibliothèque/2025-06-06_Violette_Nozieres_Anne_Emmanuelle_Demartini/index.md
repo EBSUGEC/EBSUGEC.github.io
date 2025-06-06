@@ -1,6 +1,6 @@
 ---
 title: "Violette Nozières, Anne-Emmanuelle Demartini"
-author: ZoePoli,JulietteZanetta
+author: ZoePoliJulietteZanetta
 tags:
     - histoire/civilisation/archéologie
     - époque contemporaine
