@@ -50,8 +50,8 @@ C’est une liste des insultes qui touchent le lycéen. Elles condensent des pro
 
 ![« Les rumeurs »](4.png)
 
-[« Les hypocrites, les profs qui te râlent dessus pour rien, les gens qui frappent pour rien, les radins, finir à 16h30, être accusé pour rien. »](5.png)
+![« Les hypocrites, les profs qui te râlent dessus pour rien, les gens qui frappent pour rien, les radins, finir à 16h30, être accusé pour rien. »](5.png)
 
-[« Les pères qui foutent rien à la maison. Les homophobes, grossophobes, les racistes et tout. Les bdh » BDH = Bandeur ou bandeuse d’hommes signifie les traîtres, les gens qui n’ont pas de loyauté, un dragueur ou une dragueuse. »](6.png)
+![« Les pères qui foutent rien à la maison. Les homophobes, grossophobes, les racistes et tout. Les bdh » BDH = Bandeur ou bandeuse d’hommes signifie les traîtres, les gens qui n’ont pas de loyauté, un dragueur ou une dragueuse. »](6.png)
 
-[« L’école »](7.png)
+![« L’école »](7.png)
