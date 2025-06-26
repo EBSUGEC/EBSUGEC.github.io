@@ -5,7 +5,7 @@ title: "bell hooks: existe-t-il une éducation à la liberté ?"
 author: 
     - HetaRundgren
 tags:
-    - littérature/linguistique
+    - littérature
     - sciences de l'éducation
     - époque contemporaine
     - luttes
