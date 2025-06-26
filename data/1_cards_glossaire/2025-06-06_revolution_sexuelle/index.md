@@ -1,7 +1,7 @@
 ---
 uuid: a9c94602-b451-436d-9115-56bc29573987
 
-title: "la \"révolution\" sexuelle"
+title: "la révolution sexuelle"
 author: 
     - BlanchePlaquevent
 tags:
