@@ -8,7 +8,7 @@ tags:
     - histoire/civilisation/archéologie
     - moyen âge
     - études trans
-Abstract: "Dans son ouvrage Les genres fluides. De Jeanne d’Arc aux saintes trans (Paris, Arkhê, 2020), Clovis Maillet affirme qu’il existait déjà des personnes transgenres au Moyen Âge. Les cas de transidentité qu’il étudie permettent de mieux comprendre comment le Moyen Âge conceptualisait le genre."
+abstract: "Dans son ouvrage *Les genres fluides. De Jeanne d’Arc aux saintes trans* (Paris, Arkhê, 2020), Clovis Maillet affirme qu’il existait déjà des personnes transgenres au Moyen Âge. Les cas de transidentité qu’il étudie permettent de mieux comprendre comment le Moyen Âge conceptualisait le genre."
 ---
 
 ![Ill. 2 : Ce chapiteau de la nef de la Madeleine de Vézelay, sculpté au XIIe siècle, représente le saint Eugène/Eugénie. Né femme, puis devenu moine sous l’habit masculin, Eugène aurait dévoilé sa poitrine pour s’innocenter lors de son procès, après avoir été faussement accusé de viol. (Source : Wikimedia Commons, CC-BY 4.0)](chapiteaunef.png)
