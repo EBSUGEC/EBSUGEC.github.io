@@ -5,7 +5,7 @@ title: "L’affaire Violette Nozière : relire le parricide au prisme du genre"
 author: 
     - ZoePoliJulietteZanetta
 tags:
-    - histoire/civilisation/archéologie
+    - histoire/civilisation
     - époque contemporaine
     - violences
     - sexualités
