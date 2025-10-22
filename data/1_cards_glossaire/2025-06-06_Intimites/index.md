@@ -5,8 +5,9 @@ title: "Intimités"
 author: 
     - IreneGimenezClaireLiseGaillard
 tags:
-    - histoire/civilisation/archéologie
+    - histoire/civilisation
     - époque contemporaine
     - corps
     - sexualités
+    - partenariat EHNE
 ---
