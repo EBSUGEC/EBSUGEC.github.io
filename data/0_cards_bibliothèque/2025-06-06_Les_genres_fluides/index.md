@@ -3,7 +3,7 @@ uuid: e4aeb7cc-76ac-43a0-85b1-dd978da960e0
 
 title: "Les personnes transgenres existaient-elles au Moyen Age ?"
 author: 
-    - JustineAudebrand
+    - Justine Audebrand
 tags:
     - histoire/civilisation
     - moyen âge
