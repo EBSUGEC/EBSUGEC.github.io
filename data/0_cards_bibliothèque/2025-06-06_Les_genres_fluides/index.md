@@ -8,6 +8,8 @@ tags:
     - histoire/civilisation
     - moyen âge
     - études trans
+
+
 abstract: "Dans son ouvrage *Les genres fluides. De Jeanne d’Arc aux saintes trans* (Paris, Arkhê, 2020), Clovis Maillet affirme qu’il existait déjà des personnes transgenres au Moyen Âge. Les cas de transidentité qu’il étudie permettent de mieux comprendre comment le Moyen Âge conceptualisait le genre."
 ---
 
