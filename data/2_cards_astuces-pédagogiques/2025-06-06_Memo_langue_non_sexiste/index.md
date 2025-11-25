@@ -1,7 +1,7 @@
 ---
 uuid: 5ae945c7-b07c-4df7-82a3-3e8ecf79428d
 
-title: "Mémo langue non sexiste"
+title: "Un mémo pour des usages non-sexistes de la langue"
 author: 
     - BlancheTurck
 tags:
