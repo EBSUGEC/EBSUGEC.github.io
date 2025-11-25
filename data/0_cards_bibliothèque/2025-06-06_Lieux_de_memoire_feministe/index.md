@@ -13,7 +13,7 @@ tags:
 
 *Ressource en anglais*
 
-![Logo du projet HerStoryMap](HerStoryMaps‧png)
+![Logo du projet HerStoryMap](HerStoryMaps.png)
 
 Une équipe dirigée par Marc Calvini-Lefebvre et Claire Sorin-Delpuech (Aix-Marseille Université) a constitué une carte collaborative (en open source) visant à recenser les lieux de mémoire féministes – principalement des luttes suffragistes – dans le monde, essentiellement occidental. Actuellement, des sites ont été identifiés en Europe, Amérique du Nord et centrale, Australie, Japon. Ils sont renseignés sur la carte à l’aide d’un pinçon lié à une photographie et une notice explicative.  
 
