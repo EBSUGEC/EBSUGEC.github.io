@@ -11,7 +11,7 @@ tags:
 
 *Ressources en anglais*
 
-![*Norm Criticism Toolkit*, IGLYO, 2015](normsctk.png)
+![*Norm Criticism Toolkit*, IGLYO, 2015](normsctk.PNG)
 
 ## QUOI : 
 Un guide avec 16 activités pédagogiques qui visent à sensibiliser aux privilèges, aux rapports de pouvoir et aux exclusions causées par différentes normes qui structurent les sociétés européennes. Activités facilement adaptables, certaines plus dynamiques, impliquant du mouvement, d’autres plus calmes, basées sur la discussion.
@@ -21,7 +21,7 @@ Le livre s’organise selon des thèmes et concepts et contient des feuilles de 
 ## QUI : 
 IGLYO - The International Lesbian, Gay, Bisexual, Trans, Queer and Intersex (LGBTQI) Youth & Student Organisation; fondé en 1984 à Bruxelles, IGLYO est un réseau dédié à la jeunesse LGBTQI avec plus de 125 organisations membres dans plus de 40 pays Européens. 
 
-Cette ressource est co-financée par l’Union Européene, le Conseil de l'Europe Fonds Européen pour la Jeunesse et le gouvernement du Pays-Bas.
+Cette ressource est co-financée par l’Union Européenne, le Conseil de l'Europe Fonds Européen pour la Jeunesse et le gouvernement du Pays-Bas.
 
 Contributeur•ices : Ugla Stefanía Kristjönudóttir Jónsdóttir, Tudor Kovacs et Ksenija Joksimović
 
