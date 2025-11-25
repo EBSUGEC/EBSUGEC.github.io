@@ -15,7 +15,7 @@ tags:
 abstract: Dans *Apprendre à transgresser. L’éducation comme pratique de la liberté* (2019, 1994 pour la version originale), la pédagogue, théoricienne et militante antiraciste et féministe bell hooks (née Gloria Watkins, 1952-2021) expose sa pratique et sa philosophie de l’éducation, envisagée comme un apprentissage à la liberté. Composé d’un regroupement de témoignages et de réflexions, l’ouvrage regorge d’idées pour nourrir toute personne désireuse de réfléchir à son rapport avec l’enseignement afin de transformer ses pratiques. L’ouvrage marque un jalon dans l’histoire des pédagogies émancipatrices, et a eu une influence décisive en Europe depuis sa parution grâce à de nombreuses traductions.
 
 ---
-![Ill. 1 : bell hooks, *Apprendre à transgresser. L’éducation comme pratique de la liberté*, Paris, Syllepse, 2019](bellhooks‧png)
+![Ill. 1 : bell hooks, *Apprendre à transgresser. L’éducation comme pratique de la liberté*, Paris, Syllepse, 2019](bellhooks.png)
 
 ## La place des expériences et des émotions en classe
 
