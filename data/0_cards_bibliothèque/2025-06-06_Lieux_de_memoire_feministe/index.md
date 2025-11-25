@@ -21,4 +21,4 @@ Cette carte se prête à des analyses spatiales et chronologiques sur la mise en
 
 L’ambition pédagogique est au cœur de la dimension collaborative du projet : par exemple pour de la collecte d’information qui peut être un travail mené en groupe avec des étudiant‧es, ou pour l’organisation de balades urbaines. La manière dont la mémoire est mise en récit peut être abordée grâce à cette carte (figures de grandes militantes même si tendance à la diversification et à la commémoration de collectifs ; tensions mémorielles dans le cas britannique).
 
-Des outils complémentaires de médiation ont été mis en place sur les réseaux sociaux, instagram et tik tok et par le biais d’une application mobile, [Herstory Map](https://herstoryproject.eu/).
+Des outils complémentaires de médiation ont été mis en place sur les réseaux sociaux, Instagram et Tik Tok et par le biais d’une application mobile, [Herstory Map](https://herstoryproject.eu/).
