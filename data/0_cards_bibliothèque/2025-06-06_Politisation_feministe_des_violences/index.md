@@ -7,7 +7,7 @@ Au Royaume-Uni, le mouvement féministe se saisit dès 1971 de la cause des vict
 
 
 
-Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague ![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey‧jpg). 
+Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague ![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg). 
 
 
 
@@ -35,7 +35,7 @@ Dans certains espaces, la lutte contre le viol est investie avant la question de
 
 
 
-Contre ces violences, en particulier celles qui ont lieu dans la rue, les féministes se dotent d’un nouvel outil : la marche de nuit ![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches‧jpg). 
+Contre ces violences, en particulier celles qui ont lieu dans la rue, les féministes se dotent d’un nouvel outil : la marche de nuit ![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches.jpg). 
 
 
 
