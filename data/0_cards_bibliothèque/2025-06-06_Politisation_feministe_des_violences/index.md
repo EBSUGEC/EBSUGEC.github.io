@@ -14,6 +14,7 @@ tags:
     - luttes
     - violences
     - partenariat EHNE
+abstract: Durant la vague contestataire des années 1968, les mouvements féministes qui éclosent en Europe de l’Ouest se confrontent à l’ampleur et à la variété des violences dont les femmes sont victimes. La circulation transnationale de textes fondateurs, de modes d’action et de revendications rend davantage visible ces violences. La lutte contre la violence domestique, d’une part, et contre les violences sexuelles, de l’autre, devient une cause emblématique des mobilisations féministes des années 1970 et 1980. Si les sujets abordés, les temporalités de mobilisation, les stratégies adoptées et les théories explicatives varient, les violences faites aux femmes deviennent dès lors une affaire publique, qui mérite une action collective visant à en faire un enjeu politique.
 
 ---
 
