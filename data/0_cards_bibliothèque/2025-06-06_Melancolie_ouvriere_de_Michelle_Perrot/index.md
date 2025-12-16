@@ -12,7 +12,6 @@ abstract: "Dans son ouvrage Mélancolie ouvrière (Paris, Grasset, 2012), Michel
 
 ---
 
-![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. L’industrie textile est fortement féminisée au début du XXe siècle. (Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix)](triagelaine.png)
 
 ## Michelle Perrot, Mélancolie ouvrière
 
