@@ -1,3 +1,30 @@
+---
+uuid: ea2e00b5-22b1-44fd-a050-d44a7985fb54
+
+title: "Quel rôle les femmes des classes populaires jouaient-elles dans les luttes sociales du début du XXe siècle ?"
+author: 
+    - Irène Gimenez
+tags:
+@@ -10,46 +6,46 @@ tags:
+    - luttes
+abstract: "Dans son ouvrage Mélancolie ouvrière (Paris, Grasset, 2012), Michelle Perrot retrace la vie de Lucie Baud, ouvrière de l’industrie de la soie, militante et syndicaliste (1870-1913). Une biographie qui éclaire l’histoire des classes populaires au prisme du genre et permet de saisir le rôle, marginalisé mais bien réel, des femmes des classes populaires dans les luttes sociales du début du xxe siècle."
+
+
+---
+
+![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. L’industrie textile est fortement féminisée au début du XXe siècle. (Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix)](triagelaine.png)
+
+## Michelle Perrot, Mélancolie ouvrière
+
+Historienne des mondes ouvriers, des femmes et du genre, Michelle Perrot entreprend dans cet ouvrage (Ill. 1) de retracer, à partir de rares indices, la trajectoire de vie, de travail et de lutte de Lucie Baud, ouvrière textile et syndicaliste née dans le Dauphiné (1870-1913). En relevant cette gageure, elle explore l’histoire des classes populaires au prisme du genre. 
+
+![Ill. 1: Michelle Perrot, *Mélancolie ouvrière*, Paris, Grasset, 2012.](perrot_melancolie_ouvriere.png)
+
+Historienne des mondes ouvriers, des femmes et du genre, Michelle Perrot entreprend dans cet ouvrage de retracer, à partir de rares indices, la trajectoire de vie, de travail et de lutte de Lucie Baud, ouvrière textile et syndicaliste née dans le Dauphiné (1870-1913). En relevant cette gageure, elle explore l’histoire des classes populaires au prisme du genre. 
+
+
+Le livre emprunte à la démarche biographique, suivant le déroulé de la vie de Lucie Baud (l’enfance, le travail à l’usine, le mariage, etc.). Sa spécificité est toutefois de consacrer cette biographie non pas à une femme puissante, comme c’est le plus souvent le cas, mais à une figure plus modeste, dont elle se garde bien de faire une héroïne, et qu’elle prend soin de replacer sans cesse dans une dimension collective. Ce faisant, l’ouvrage se veut aussi une réflexion méthodologique sur l’écriture de la biographie : l’historienne donne à voir les avancées et stagnations de l’enquête, les questionnements, les hypothèses, et elle assume même le recours occasionnel à l’imagination pour composer avec les silences, les blancs, les émotions.
+
 Les lecteurs et lectrices cheminent ainsi aux côtés de Michelle Perrot, depuis sa rencontre avec Lucie Baud dans les années 1970 au détour de ses travaux sur les grèves, dans son exploration des associations érudites locales, des archives administratives, militantes, policières, de la presse et des lieux côtoyés par la militante. Le texte s’articule notamment autour d’une source rare, publiée par Lucie Baud dans Le Mouvement Socialiste en 1908, où elle raconte ses conditions de travail, son engagement syndical et les grèves auxquelles elle a participé en 1905 et 1906. Au centre de l’ouvrage, aussi, sa tentative de suicide en 1906, qui reste une énigme pour l’historienne. Le geste n’est pourtant pas abandonné par l’autrice du côté de l’intime inatteignable ou du tabou. Elle tente ainsi d’en donner une lecture sociale, genrée, et de formuler des hypothèses sur ses motivations : désenchantement des lendemains de lutte, débâcle du mouvement ouvrier local, effets de la répression patronale sur une femme seule en charge de deux enfants, conflits familiaux et réputationnels liés à son engagement.
 
 
