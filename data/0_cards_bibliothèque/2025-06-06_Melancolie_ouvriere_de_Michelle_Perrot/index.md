@@ -40,7 +40,7 @@ Les lecteurs et lectrices cheminent ainsi aux côtés de Michelle Perrot, depuis
 
 
 
-![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix](triagelaine‧png)
+![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix](triagelaine.png)
 
 
 
