@@ -1,3 +1,22 @@
+---
+uuid: 46ce07db-feaa-48e2-9c16-b278bf3a792e
+
+
+
+
+title: "Les violences faites aux femmes, un enjeu politique pour les féministes. Causes et modes d’action féministes en Europe de l’Ouest (années 1970-1980)"
+author: 
+    - MarieCabadi
+tags:
+    - histoire/civilisation
+    - sociologie/science politique
+    - époque contemporaine
+    - luttes
+    - violences
+    - partenariat EHNE
+
+---
+
 Au Royaume-Uni, le mouvement féministe se saisit dès 1971 de la cause des victimes de violences conjugales, désignées alors comme des « femmes battues ». Un collectif de femmes du quartier londonien de Chiswick ouvre un premier refuge appelé Women’s Aid. D’autres apparaissent ensuite sous le même nom et se fédèrent à l’échelle nationale en 1974. Parmi les initiatrices du refuge de Chiswick, Erin Pizzey (1939-) se distingue par ses efforts pour médiatiser l’expérience. Elle publie en 1974 Scream Quietly or the Neighbours Will Hear, un recueil de témoignages largement diffusé et adapté en documentaire pour la télévision. Toutefois, au sein du mouvement britannique, Pizzey est contestée pour ses prises de position antiféministes, hostiles à la libération lesbienne, et parce qu’elle prône une gestion centralisée des refuges que ses opposantes considèrent comme non démocratique. Son analyse des violences par la psychologie plutôt qu’en dénonçant la famille patriarcale est aussi critiquée.
 
 
