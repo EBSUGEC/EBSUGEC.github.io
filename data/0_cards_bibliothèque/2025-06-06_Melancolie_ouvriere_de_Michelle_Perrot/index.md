@@ -41,3 +41,15 @@ De mars à juillet 1905, face à la menace de diminution du personnel et d’aug
 Dès son arrivée à Voiron, elle réinvestit son expérience syndicale dans l’organisation des ouvrières, notamment autour de la revendication de la journée de 8 heures. Elle participe à une nouvelle grève, de février à mai 1906, qui donne lieu à des affrontements avec les « jaunes » et à l’intervention de 3000 chasseurs alpins. La mobilisation se cristallise autour du 1er mai, devenu journée de lutte du prolétariat international. Lucie occupe un rôle moins central dans les luttes de cette ville où elle est nouvelle arrivante. Elle s’implique dans les cantines (collecte des denrées, cuisine, distribution) alors que d’autres camarades hommes organisent, prennent la parole, négocient, selon une distribution sexuée des rôles. Même si à moyen-terme, ces luttes permettent des améliorations dans le quotidien des apprenties logées en internat, et l’obtention d’un tarif unificateur, les usines rouvrent et la grève prend fin, marquant cette « mélancolie ouvrière » des lendemains de grève – et, pour Lucie, un nouveau licenciement.
 
 Michelle Perrot, à travers l’histoire de Lucie Baud, donne des outils pour écrire et enseigner une histoire mixte, qui accorde une place égale aux femmes et aux hommes. Cette histoire « par le bas », qui se fonde sur les expériences, les voix et les luttes des mondes ouvriers, est aussi une histoire sensible. Cet ouvrage nous permet de mieux comprendre les dynamiques sociales des industries de la soierie et les rapports de pouvoir au sein du mouvement ouvrier.
+
+## Bibliographie
+
+Jeanne Bouvier, *Mes mémoires. Une syndicaliste féministe, 1876-1935*, Paris, La Découverte, 2016 [1936].
+
+Fanny Gallot et Yasmine Siblot, « Grévistes », *Encyclopédie critique du genre*, La Découverte, 2021, p. 320-328.
+
+Louise A. Tilly, Joan W. Scott, *Les femmes, le travail et la famille*, Paris, Rivages/histoire, 1987.
+
+Sylvie Schweitzer, *Les femmes ont toujours travaillé. Une histoire de leurs métiers, xixe et xxe siècles*, Paris, Odile Jacob, 2002.
+
+Michelle Zancarini-Fournel, *Les luttes et les rêves. Une histoire populaire de la France*, Paris, Zones, 2016.
