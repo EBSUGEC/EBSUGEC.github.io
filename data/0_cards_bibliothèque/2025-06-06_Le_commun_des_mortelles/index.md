@@ -17,7 +17,7 @@ tags:
 abstract: "Dans l’ouvrage *Le Commun des mortelles. Faire face au féminicide* (Divergences, 2025), la politiste et socio-historienne Margot Giacinti étudie la genèse de cette idée politique – le meurtre des femmes parce qu’elles sont des femmes – chez les théoriciennes et militantes féministes. Elle ne s’en tient pas à la théorisation et entre également dans la mécanique de ces crimes, sur la longue durée, pour en montrer les dimensions politiques et structurelles."
 ---
 
-![Ill. 2 : Affiche du Tribunal international des crimes contre les femmes qui a constitué, à Bruxelles en mars 1976, un moment important dans la théorisation du féminicide (Carhif-AVG, Bruxelles).](tribunalfemmes‧jpg)
+![Ill. 2 : Affiche du Tribunal international des crimes contre les femmes qui a constitué, à Bruxelles en mars 1976, un moment important dans la théorisation du féminicide (Carhif-AVG, Bruxelles).](tribunalfemmes.jpg)
 
 
 Les prises de parole conduisent à la définition du féminicide comme un crime systémique et politique, car il repose sur la terrorisation des femmes et résulte de dynamiques de pouvoir. Après l’attentat antiféministe de l’école Polytechnique de Montréal (1989), Diana Russell et Jill Radford rassemblent en 1992 ces réflexions dans l’ouvrage *Femicide: The Politics of Woman Killing*. Le féminicide y est défini comme « le meurtre de femmes parce qu’elles sont des femmes » et inscrit dans le continuum des violences de genre et des violences sexuelles.
