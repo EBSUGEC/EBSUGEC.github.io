@@ -30,7 +30,7 @@ Les lecteurs et lectrices cheminent ainsi aux côtés de Michelle Perrot, depuis
 À ce titre, Lucie Baud a un parcours à la fois ordinaire et exceptionnel. Ordinaire, si on la considère comme une jeune fille des classes populaires mise au travail en atelier et en internat à 12 ans, dans un secteur très féminisé (Ill. 2), puis embauchée à 17 dans l’usine où travaille déjà sa mère. Exceptionnel, parce qu’en rédigeant (peut-être avec un tiers) et en publiant dans le Mouvement Socialiste un article sur les grèves des ouvrières de la soierie de Vizille, elle est arrivée jusqu’à nous comme une actrice à part entière du mouvement ouvrier. En tant que femme et ouvrière, elle fait exception dans le panorama des auteurs de la revue militante.
 
 
-![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. L’industrie textile est fortement féminisée au début du XXe siècle. (Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix)](triagelaine‧png)
+![Ill. 2 : Scène de triage de la laine à Roubaix, peinte par Ferdinand Joseph Gueldry vers 1910. Source : La Piscine – Musée d’Art et d’Industrie André-Diligent, Roubaix](triagelaine.png)
 
 
 Ce rare témoignage permet de s’interroger sur les causes de son engagement. Celui-ci se manifeste dès 1902 lorsque Lucie Baud, alors ouvrière chez Duplan, fonde le « Syndicat des ouvriers et ouvrières en soierie du canton de Vizille », à l’initiative d’une grève de plusieurs mois en 1905 avant de participer à une deuxième grève à Voiron en 1906.
