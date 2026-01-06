@@ -50,7 +50,7 @@ Laurence de Cock, Irène Pereira (dir.), *Les pédagogies critiques*, Marseille,
 
 Fabrice Dhume, Marguerite Cognet, « Racisme et discriminations raciales à l’école et à l’université : où en est la recherche ? », *Le français aujourd’hui*, n° 209, 2020/2, p. 17-27. 
 
-Nassira Hedjerassi, [« bell hooks ou une ‘pédagogie engagée’, non classiste, non (hétéro)sexiste, non raciste », *Blog du projet SVT-Égalité*](http://svt-egalite.fr/index.php/reflexions-et-outils/pedagogie/figures-de-la-pedagogie/bell-hooks-ou-une-pedagogie-engagee), 14 janvier 2020.
+Nassira Hedjerassi, [« bell hooks ou une ‘pédagogie engagée’, non classiste, non (hétéro)sexiste, non raciste »](http://svt-egalite.fr/index.php/reflexions-et-outils/pedagogie/figures-de-la-pedagogie/bell-hooks-ou-une-pedagogie-engagee), *Blog du projet SVT-Égalité*, 14 janvier 2020.
 
 Fania Noël, *Dix questions sur les Féminismes Noirs*, Montreuil, Libertalia, 2024.
 
