@@ -17,7 +17,7 @@ abstract: Dans *Pour en finir avec la passion*, Sarah Delale, Elodie Pinel et Ma
 
 Comment étudier les scènes de violences sexuelles, souvent euphémisées comme de simples scènes de passion, voire esthétisées, dont regorge la littérature des siècles passés ? C’est cette question, qui intéresse aussi bien les spécialistes d’histoire que de littérature, que se posent Sarah Delale, Elodie Pinel et Marie-Pierre Tachet dans *Pour en finir avec la passion* (ill.1).
 
-![Ill. 1 : Sarah Delale, Elodie Pinel, Marie-Pierre Tachet, Pour en finir avec la passion. L’abus en littérature, Paris, Éditions Amsterdam, 2023](finirpassion.PNG)
+![Ill. 1 : Sarah Delale, Elodie Pinel, Marie-Pierre Tachet, Pour en finir avec la passion. L’abus en littérature, Paris, Éditions Amsterdam, 2023](finir passion.jpg)
 
 L’ouvrage prend le contre-pied des interprétations traditionnelles des « classiques » qui interdisent toute lecture éthique, jugée anachronique, et réduisent ces scènes à de simples conventions littéraires ou à des marqueurs d’un temps révolu. Cette réhabilitation d’une lecture éthique de la littérature n’est pas tout à fait nouvelle : l’ouvrage revient ainsi sur la querelle qu’avait suscitée, en 2017, l’analyse du poème « L’Oaristys » d’André Chénier, alors inscrit au programme de l’agrégation de Lettres modernes et classiques. Une polémique avait éclaté quant à la possibilité, ou non, d’interpréter une scène décrite par ce texte comme un viol. Plusieurs candidates et candidats avaient publié une lettre ouverte dans laquelle ils s’interrogeaient sur l’attitude à adopter lors de l’enseignement de semblables textes à un public jeune et non averti.
 
