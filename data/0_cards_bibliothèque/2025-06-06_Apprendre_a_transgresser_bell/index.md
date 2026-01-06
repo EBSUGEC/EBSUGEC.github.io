@@ -15,7 +15,7 @@ tags:
 abstract: Dans *Apprendre à transgresser. L’éducation comme pratique de la liberté* (2019, 1994 pour la version originale), la pédagogue, théoricienne et militante antiraciste et féministe bell hooks (née Gloria Watkins, 1952-2021) expose sa pratique et sa philosophie de l’éducation, envisagée comme un apprentissage à la liberté. Composé d’un regroupement de témoignages et de réflexions, l’ouvrage regorge d’idées pour nourrir toute personne désireuse de réfléchir à son rapport avec l’enseignement afin de transformer ses pratiques. L’ouvrage marque un jalon dans l’histoire des pédagogies émancipatrices, et a eu une influence décisive en Europe depuis sa parution grâce à de nombreuses traductions.
 
 ---
-![Ill. 1 : bell hooks, *Apprendre à transgresser. L’éducation comme pratique de la liberté*, Paris, Syllepse, 2019](bellhooks.png)
+![Ill. 1 : bell hooks, *Apprendre à transgresser. L’éducation comme pratique de la liberté*, Paris, Syllepse, 2019](bellhooks.jpg)
 
 ## La place des expériences et des émotions en classe
 
@@ -43,3 +43,16 @@ Dans son ouvrage *Apprendre ensemble*, hooks présente un autre exercice pédago
     « En cours, j’entends souvent des groupes d’étudiant·es me dire que le racisme ne trace désormais plus les contours de nos vies, que la différence raciale n’existe pas, que “nous sommes simplement toustes des personnes”. Je leur donne ensuite, quelques minutes plus tard, un exercice. Je leur demande si iels étaient sur le point de mourir et qu’iels pouvaient choisir de revenir dans le corps d’un homme blanc, d’une femme blanche, d’une femme noire ou d’un homme noir, quelle serait l’identité qu’iels choisiraient. Chaque fois que je propose cet exercice, la plupart, quels que soient leur genre ou leur race choisissent toujours d’être blanc·hes, et le plus souvent un homme blanc. La femme noire est la moins choisie. Quand je demande aux élèves d’expliquer leur choix, iels s’emploient à faire une analyse sophistiquée de la notion de privilège racial (en croisant des perspectives prenant le genre et la classe en considération). Cette déconnexion entre leur rejet explicite de la race comme marqueur de privilège, et leur compréhension inconsciente, est un fossé à combler, une illusion qui doit être brisée avant que toute discussion concernant la race et le racisme puisse avoir lieu. »
 
 Les expériences que bell hooks décrit offrent une perspective précieuse pour comprendre et saisir les enjeux actuels et les fractures de la société. Son ouvrage met en avant la nécessité d’inventer des solutions collectives à l’échelle locale, celle de la classe, pour faire face aux défis quotidiens.
+
+## Bibliographie
+
+Laurence de Cock, Irène Pereira (dir.), *Les pédagogies critiques*, Marseille, Agone, 2019.
+
+Fabrice Dhume, Marguerite Cognet, « Racisme et discriminations raciales à l’école et à l’université : où en est la recherche ? », *Le français aujourd’hui*, n° 209, 2020/2, p. 17-27. 
+
+Nassira Hedjerassi, [« bell hooks ou une ‘pédagogie engagée’, non classiste, non (hétéro)sexiste, non raciste », *Blog du projet SVT-Égalité*](http://svt-egalite.fr/index.php/reflexions-et-outils/pedagogie/figures-de-la-pedagogie/bell-hooks-ou-une-pedagogie-engagee), 14 janvier 2020.
+
+Fania Noël, *Dix questions sur les Féminismes Noirs*, Montreuil, Libertalia, 2024.
+
+[Ressources de l’Institut bell hooks – Paulo Freire](https://emancipaeda.hypotheses.org/ressources-en-ligne)
+
