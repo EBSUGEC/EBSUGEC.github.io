@@ -76,10 +76,10 @@ Tout d’abord, le meurtre est rarement la première violence masculine. Il s’
 À travers les parcours de femmes victimes de féminicides, l’ouvrage donne enfin à voir et à entendre les résistances individuelles et collectives. Les femmes ne sont pas passives face aux féminicides. Elles parlent : elles dénoncent les violences auprès de leur entourage, souvent d’autres femmes, qui témoignent ensuite lors des procès, et saisissent parfois les autorités policières ou judiciaires. Elles peuvent également tenter de se séparer ou de divorcer d’un conjoint violent. Au début du xxe siècle, l’ouvrière chenilleuse lyonnaise Francine Senèze évoque avec différentes personnes de son entourage les violences physiques et les pressions sexuelles de son mari, déjà condamné pour avoir vitriolé sa précédente compagne. Face à cette situation qu’elle juge insupportable, elle quitte le domicile conjugal et demande le divorce en 1908, en explicitant à l’institution judiciaire et à son mari les causes de son départ. Elle sollicite aussi le soutien financier de son amie Marie Feuillastre. Cette dernière est d’ailleurs présente lorsque le mari de Francine Senèze la poursuit, armé, dans la rue, et elle cherche à la protéger de l’attaque conjugale à laquelle elle succombe.
 
 
-##Bibliographie
+## Bibliographie
 
 
-Pavard Bibia, Rochefort Florence, Zancarini-Fournel Michelle, *Ne nous libérez pas, on s’en charge : une histoire des féminismes de 1789 à nos jours*, Paris, La Découverte, 2020. 
+Bibia Pavard, Rochefort Florence, Zancarini-Fournel Michelle, *Ne nous libérez pas, on s’en charge : une histoire des féminismes de 1789 à nos jours*, Paris, La Découverte, 2020. 
 
 
 Delage Pauline, *Violences conjugales. Du combat féministe à la cause publique*, Paris, Presses de Sciences Po, 2017.
