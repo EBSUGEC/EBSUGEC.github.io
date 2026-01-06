@@ -30,7 +30,7 @@ Parallèlement à cette genèse intellectuelle, l’installation progressive du 
 
 ![Ill. 1 : Margot Giacinti, *Le Commun des mortelles. Faire face au féminicide*, Divergences, 2025](lecommundesmortelles.png)
 
-![Ill. 3 : Le concept de féminicide est aujourd’hui largement utilisé par les mouvements féministes, comme les Collages féministes qui comptabilisent, dénoncent les féminicides et nomment les victimes depuis 2019 (octobre 2024, Paris).](feminicides‧jpg)
+![Ill. 3 : Le concept de féminicide est aujourd’hui largement utilisé par les mouvements féministes, comme les Collages féministes qui comptabilisent, dénoncent les féminicides et nomment les victimes depuis 2019 (octobre 2024, Paris).](feminicides.jpg)
 
 Le terme de féminicide apparaît dès la fin du xixe siècle, et Margot Giacinti analyse finement les glissements dans les usages qui en sont faits. Sous la plume de la militante féministe et suffragiste Hubertine Auclert (1848-1914), le terme sert moins à dénoncer le meurtre d’une femme parce qu’elle est femme qu’à condamner les inégalités et les violences contre les femmes, et à réclamer l’intervention de l’État. Dans la rubrique « Féminisme » du journal *Le Radical*, elle utilise le terme à plusieurs reprises : en 1897, pour dénoncer le privilège de l’utilisation du forceps, qui met en danger la vie des personnes qui accouchent, par les médecins (et non les sage-femmes) ; en 1902, pour dénoncer l’exploitation des femmes dans le mariage puis, parfois, dans le divorce.
 
