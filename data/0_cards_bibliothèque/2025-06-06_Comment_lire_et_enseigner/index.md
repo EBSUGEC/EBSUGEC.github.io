@@ -43,12 +43,12 @@ Dans le même temps, le roman est marqué par les accès de jalousie de Des Grie
 
 ## Bibliographie
 
-Bellenger, Camille, Brouzes, Camille, Grand d’Esnon, Anne, Marpeau, Anne-Claire, [carnet hypothèse « Malaise dans la lecture »](https://malaises.hypotheses.org/).
+Camille Bellenger, Camille Brouzes, Anne Grand d’Esnon, Anne-Claire Marpeau, [carnet hypothèse « Malaise dans la lecture »](https://malaises.hypotheses.org/).
 
-Dubois-Nayt, Armel, Hamus-Vallée, Réjane (dir.), *Écrire l’histoire du harcèlement sexuel sur la longue durée. Nommer, dénoncer, représenter, mettre en image ou en musique*, Paris, L’Harmattan, 2024.
+Armel Dubois-Nayt, Réjane Hamus-Vallée (dir.), *Écrire l’histoire du harcèlement sexuel sur la longue durée. Nommer, dénoncer, représenter, mettre en image ou en musique*, Paris, L’Harmattan, 2024.
 
-Muller, Caroline, [« Retirer les guillemets. A propos de l’étude du viol conjugal et du nécessaire anachronisme »](https://consciences.hypotheses.org/768), carnet hypothèse *Acquis de conscience*, mars 2016. 
+Caroline Muller, [« Retirer les guillemets. A propos de l’étude du viol conjugal et du nécessaire anachronisme »](https://consciences.hypotheses.org/768), carnet hypothèse *Acquis de conscience*, mars 2016. 
 
-Tamas, Jennifer, *Au NON des femmes. Libérer nos classiques du regard masculin*, Paris, Seuil, 2023. 
+Jennifer Tamas, *Au NON des femmes. Libérer nos classiques du regard masculin*, Paris, Seuil, 2023. 
 
-Schweitzer, Zoé, Lochert, Véronique, Zanin, Enrica, *La fiction face au viol*, Paris, Hermann, 2024.
+Zoé Schweitzer, Véronique Lochert, Enrica Zanin, *La fiction face au viol*, Paris, Hermann, 2024.
