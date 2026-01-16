@@ -1,9 +1,6 @@
 ---
 uuid: 46ce07db-feaa-48e2-9c16-b278bf3a792e
 
-
-
-
 title: "Les violences faites aux femmes, un enjeu politique pour les féministes. Causes et modes d’action féministes en Europe de l’Ouest (années 1970-1980)"
 author: 
     - MarieCabadi
@@ -18,21 +15,21 @@ abstract: Durant la vague contestataire des années 1968, les mouvements fémini
 
 ---
 
+Du 4 au 8 mars 1976, le palais des Congrès de Bruxelles accueille 2 000 femmes venues du monde entier assister au Tribunal international contre les crimes faits aux femmes !
+
+[Ill. 1 : Affiche du Tribunal des crimes contre les femmes, Bruxelles, 4 au 8 mars 1976. Source : Ville de Paris / Bibliothèque Marguerite Durand, AFF 149 m](crimefemme.jpeg) 
+
+Cette initiative vise l’identification et la dénonciation féministe des violences faites aux femmes, définies dans une acception large, aussi bien sexuelle, familiale, médicale qu’économique, culturelle et politique.
+ 
+ 
+ Pour faire de cette multiplicité de situations un problème politique cohérent, les féministes développent des outils théoriques, pensent leur rôle dans la perpétuation de la domination masculine ou inventent des concepts. Dans les années 1980, la sociologue britannique Liz Kelly (1951-) utilise celui de continuum de la violence sexuelle pour penser tant la variété et l’étendue des violences auxquelles les femmes sont confrontées au cours de leur vie que les liens entre ces différentes formes de violence. Ce rapprochement passe aussi par la circulation d’idées et de modes d’action aux échelles européennes et internationales. Selon les lieux, les premières mobilisations se sont focalisées sur certains sujets emblématiques, comme le viol ou les violences conjugales.
+
+## La cause des « femmes battues »
+
 Au Royaume-Uni, le mouvement féministe se saisit dès 1971 de la cause des victimes de violences conjugales, désignées alors comme des « femmes battues ». Un collectif de femmes du quartier londonien de Chiswick ouvre un premier refuge appelé Women’s Aid. D’autres apparaissent ensuite sous le même nom et se fédèrent à l’échelle nationale en 1974. Parmi les initiatrices du refuge de Chiswick, Erin Pizzey (1939-) se distingue par ses efforts pour médiatiser l’expérience. Elle publie en 1974 Scream Quietly or the Neighbours Will Hear, un recueil de témoignages largement diffusé et adapté en documentaire pour la télévision. Toutefois, au sein du mouvement britannique, Pizzey est contestée pour ses prises de position antiféministes, hostiles à la libération lesbienne, et parce qu’elle prône une gestion centralisée des refuges que ses opposantes considèrent comme non démocratique. Son analyse des violences par la psychologie plutôt qu’en dénonçant la famille patriarcale est aussi critiquée.
 
 
-
-
-
-
-
-
 Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague ![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg). 
-
-
-
-
-
 
 
 
