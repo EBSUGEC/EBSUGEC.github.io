@@ -5,7 +5,7 @@ title: "Mobilisées. Une histoire féministes des mobilisations populaires de Fa
 author: 
     - ChloeButonCamilleCourgeon
 tags:
-    - histoire/civilisation/archéologie
+    - histoire/civilisation
     - sociologie/science politique
     - époque contemporaine
     - luttes
