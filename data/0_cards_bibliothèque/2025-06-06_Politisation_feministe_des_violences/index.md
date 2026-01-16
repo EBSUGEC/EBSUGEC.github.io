@@ -29,7 +29,12 @@ Cette initiative vise l’identification et la dénonciation féministe des viol
 Au Royaume-Uni, le mouvement féministe se saisit dès 1971 de la cause des victimes de violences conjugales, désignées alors comme des « femmes battues ». Un collectif de femmes du quartier londonien de Chiswick ouvre un premier refuge appelé Women’s Aid. D’autres apparaissent ensuite sous le même nom et se fédèrent à l’échelle nationale en 1974. Parmi les initiatrices du refuge de Chiswick, Erin Pizzey (1939-) se distingue par ses efforts pour médiatiser l’expérience. Elle publie en 1974 Scream Quietly or the Neighbours Will Hear, un recueil de témoignages largement diffusé et adapté en documentaire pour la télévision. Toutefois, au sein du mouvement britannique, Pizzey est contestée pour ses prises de position antiféministes, hostiles à la libération lesbienne, et parce qu’elle prône une gestion centralisée des refuges que ses opposantes considèrent comme non démocratique. Son analyse des violences par la psychologie plutôt qu’en dénonçant la famille patriarcale est aussi critiquée.
 
 
-Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague ![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg). 
+
+
+Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague 
+
+
+![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg). 
 
 
 
@@ -47,12 +52,14 @@ Des féministes étrangères visitent le refuge londonien et s’en inspirent, c
 
 
 
-Dans certains espaces, la lutte contre le viol est investie avant la question des violences conjugales. Les premières publications du Mouvement de libération des femmes parisien dénoncent le viol, comme « Le viol », écrit par Emmanuèle de Lesseps (1946-) dans Partisans en 1970 et qui le raconte à la première personne. La cause prend de l’ampleur en France à partir du milieu des années 1970 : les féministes françaises diffusent dans la presse un Manifeste contre le viol en 1976, soulignant qu’il s’agit de « la réalité quotidienne des femmes dans les rues, dans leurs maisons, à leur travail, en vacances, le jour, la nuit ». Le foyer familial est alors identifié comme un cadre possible de violence, aux côtés du lieu de travail ou de l’espace public. En 1978, des mobilisations ont lieu autour du procès d’Aix-en-Provence sur le viol de deux touristes belges lesbiennes dans une calanque marseillaise. En Italie, c’est le viol collectif de deux adolescentes et le meurtre de l’une d’elles en 1975, à Circeo près de Rome, qui lance une campagne féministe et donne plus de visibilité aux violences sexuelles.
+Dans certains espaces, la lutte contre le viol est investie avant la question des violences conjugales. Les premières publications du Mouvement de libération des femmes parisien dénoncent le viol, comme « Le viol », écrit par Emmanuèle de Lesseps (1946-) dans *Partisans* en 1970 et qui le raconte à la première personne. La cause prend de l’ampleur en France à partir du milieu des années 1970 : les féministes françaises diffusent dans la presse un Manifeste contre le viol en 1976, soulignant qu’il s’agit de « la réalité quotidienne des femmes dans les rues, dans leurs maisons, à leur travail, en vacances, le jour, la nuit ». Le foyer familial est alors identifié comme un cadre possible de violence, aux côtés du lieu de travail ou de l’espace public. En 1978, des mobilisations ont lieu autour du procès d’Aix-en-Provence sur le viol de deux touristes belges lesbiennes dans une calanque marseillaise. En Italie, c’est le viol collectif de deux adolescentes et le meurtre de l’une d’elles en 1975, à Circeo près de Rome, qui lance une campagne féministe et donne plus de visibilité aux violences sexuelles.
 
 
 
 
-Contre ces violences, en particulier celles qui ont lieu dans la rue, les féministes se dotent d’un nouvel outil : la marche de nuit ![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches.jpg). 
+Contre ces violences, en particulier celles qui ont lieu dans la rue, les féministes se dotent d’un nouvel outil : la marche de nuit.
+
+![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches.jpg). 
 
 
 
@@ -77,3 +84,15 @@ Toutes les féministes ne se rallient pas à un mouvement de politisation qui pe
 
 
 Enfin, certains angles morts des mobilisations sont dénoncés. Des féministes antiracistes critiquent les effets stigmatisants du passage des marches de nuit britanniques dans des quartiers populaires où vit une importante population noire ou contestent la manière dont certaines se saisissent de la question de l’excision. En France, des écrivaines comme Benoîte Groult ou Awa Thiam, et des collectifs dont la Coordination des femmes noires, voient dans cette pratique une violence faite aux femmes à partir de 1975. Dans d’autres pays, la Conférence des Nations Unies sur les femmes de Copenhague de 1980 donne de l’ampleur au débat. La démarche de l’États-unienne Fran Hosken (1919-2006), qui popularise l’appellation « mutilations génitales féminines », y est dénoncée comme étant condescendante et sensationnaliste par des féministes arabes et africaines, dont l’écrivaine égyptienne Nawal El Saadawi (1931-2021). À Copenhague comme au Tribunal de Bruxelles, les termes des débats féministes ouest-européens informent et s’informent de circulations de personnes, d’idées et de causes véritablement mondiales.
+
+## Bibliographie
+
+Bérard, Jean, *La justice en procès. Les mouvements de contestation face au système pénal (1968-1983)*, Presses de Sciences Po, 2013.
+
+Delage, Pauline, *Violences conjugales. Du combat féministe à la cause publique*, Presses de Sciences po, 2017.
+
+Giacinti, Margot, « Le Tribunal international des crimes contre les femmes (mars 1976). Un moment-clé dans la conceptualisation du féminicide ? », *Cahiers du Genre*, no 73, 2022, p. 85‑110.
+
+Korsvik, Trine Rogg, *Politicizing Rape and Pornography. 1970s Feminist Movements in France and Norway*, Palgrave Macmillan, 2020.
+
+Simic, Zora, « From Battered Wives to Domestic Violence: The Transnational Circulation of Chiswick Women’s Aid and Erin Pizzey’s Scream Quietly or the Neighbours Will Hear (1974) », *Australian Historical Studies*, vol. 51, no 2, 2020, p. 107‑126.
