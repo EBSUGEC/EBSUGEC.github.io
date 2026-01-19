@@ -6,6 +6,14 @@ title: "Sexualité, avortement, contraception, homosexualité : la révolution s
 author: Blanche Plaquevent
 
 tags:
+    - histoire/civilisation
+    - sociologie/science politique
+    - époque contemporaine
+    - luttes
+    - corps
+    - sexualités
+    - partenariat EHNE
+
 
 image: data/1_cards_glossaire/2025-01-16_sexualité_avortement_contraception/fhar.jpg
 

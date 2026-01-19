@@ -4,7 +4,7 @@ uuid: 9dff44f6-8f79-4718-bc7a-d51f6c700e8f
 title: "Une carte collaborative et interactive des lieux de mémoire féministe"
 tags:
     - histoire/civilisation
-    - géographie, urbanisme
+    - géographie/urbanisme
     - mémoires
     - militantisme
 ---

@@ -3,7 +3,7 @@ uuid: 46ce07db-feaa-48e2-9c16-b278bf3a792e
 
 title: "Les violences faites aux femmes, un enjeu politique pour les féministes. Causes et modes d’action féministes en Europe de l’Ouest (années 1970-1980)"
 author: 
-    - MarieCabadi
+    - Marie Cabadi
 tags:
     - histoire/civilisation
     - sociologie/science politique
@@ -11,6 +11,9 @@ tags:
     - luttes
     - violences
     - partenariat EHNE
+
+image: data/0_cards_Médiathèque/2025-06-06_Politisation_feministe_des_violences/marches.jpg
+
 abstract: Durant la vague contestataire des années 1968, les mouvements féministes qui éclosent en Europe de l’Ouest se confrontent à l’ampleur et à la variété des violences dont les femmes sont victimes. La circulation transnationale de textes fondateurs, de modes d’action et de revendications rend davantage visible ces violences. La lutte contre la violence domestique, d’une part, et contre les violences sexuelles, de l’autre, devient une cause emblématique des mobilisations féministes des années 1970 et 1980. Si les sujets abordés, les temporalités de mobilisation, les stratégies adoptées et les théories explicatives varient, les violences faites aux femmes deviennent dès lors une affaire publique, qui mérite une action collective visant à en faire un enjeu politique.
 
 ---
