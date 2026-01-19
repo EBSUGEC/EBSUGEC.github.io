@@ -7,6 +7,8 @@ author: Blanche Plaquevent
 
 tags:
 
+image: data/1_cards_glossaire/2025-01-16_sexualité_avortement_contraception/fhar.jpg
+
 abstract: Le terme de révolution sexuelle qualifie communément un processus de transformation des sexualités qui s’est opéré dans la seconde moitié du xxe siècle dans de nombreux pays occidentaux. Cette qualification n’est pas seulement descriptive : il s’agit d’une interprétation qui analyse ces transformations comme un renversement profond des normes et pratiques sexuelles. L’usage de ce terme est débattu, autant par des sociologues, historiennes et historiens que dans le débat public. Le terme de révolution sexuelle renvoie également à un concept politique historiquement situé, qui a particulièrement circulé dans l’entre-deux-guerres et les années 1968.
 ---
 
@@ -16,8 +18,12 @@ Le terme de révolution sexuelle est généralement utilisé pour désigner des 
 
 De grandes enquêtes statistiques révèlent en effet une transformation des pratiques sexuelles. Aux Etats-Unis, le rapport Kinsey sur la sexualité des Américains en 1948 et des Américaines en 1953 souligne la diversité des orientations et des pratiques sexuelles. Ce rapport révèle un décalage entre le vécu des individus et les normes sociales, religieuses et morales de l’après-guerre, suggérant que des changements sont en cours. En France, le rapport Simon de 1972 indique une diminution de l’âge du premier rapport sexuel pour les jeunes du début des années 1970 par rapport à la génération précédente, surtout pour les femmes (21,5 ans pour les femmes, 19,2 pour les hommes). Au-delà des pratiques qu’elles révèlent, ces enquêtes témoignent de changements culturels. La sexualité y est traitée comme un objet pouvant légitimement être étudié puis discuté dans l’espace public, ces rapports ayant été très médiatisés. D’autres évènements dans le domaine culturel témoignent d’une évolution des normes sexuelles et de genre : l’assouplissement de la censure permet la parution de productions au contenu plus explicite sur la sexualité, telles que *L’Amant de Lady Chatterley* (republié en version non-censurée en 1960) et *The Joy of Sex* (1972) au Royaume-Uni (Ill. 1), et le film érotique *Emmanuelle* sort en salle en 1974. 
 
+![Ill. 1 : Couverture de la première édition de *The Joy of Sex*, 1972](joysex.jpg)
+
 La révolution sexuelle se joue enfin dans le champ politique. De nombreuses normes juridiques encadrant le mariage et la sexualité évoluent en France, de la loi Neuwirth de 1967 sur la contraception à l’évolution de la qualification juridique du viol en 1980. Ces changements résultent de mobilisations militantes, avec le développement du Mouvement de Libération des Femmes (MLF), du Front Homosexuel d’Action Révolutionnaire (FHAR), des Gouines Rouges et de la mobilisation des travailleuses du sexe à Lyon en 1975 (ill. 2, 3, 4).
 
+![Ill. 2 : Dépôt d’une gerbe à la femme du soldat inconnu, acte fondateur du Mouvement de libération des femmes (MLF), 26 août 1970 (Paris) (© DR)](depot.jpg)
+![Ill. 3. Création du Front homosexuel d’action révolution (FHAR), mars 1971 (Paris) (© Catherine Deudon)](fhar.jpg)
 ![Ill. 4: Occupation de l’église de Saint Nizier par les travailleuses du sexe mobilisées contre la répression policière, 2 juin 1975 (Lyon) (© Getty – Alain Voloch)](nizier.jpg)
 
 ## La révolution sexuelle existe-t-elle ?
@@ -34,13 +40,13 @@ Les rapports entre pouvoir et sexualité recouvrent également des enjeux liés 
 
 Le terme de « révolution sexuelle » n’est pas seulement un concept analytique pour désigner les phénomènes des années 1960-1970. Il s’agit également d’un concept plus ancien, politique cette fois, qui renvoie à l’idée que la révolution devrait libérer la sexualité, ou que la sexualité aurait un pouvoir révolutionnaire. 
 
-La révolution russe de 1917 fait naître l’espoir de combiner communisme et libération de la sexualité grâce à la légalisation de l’avortement, la dépénalisation de l’homosexualité et la défense de l’amour libre, notamment dans les ouvrages de la communiste et féministe Alexandra Kollontaï (1872-1952). Si l’URSS enterre l’espoir d’une révolution sexuelle soviétique en abandonnant nombre de lois progressistes au fil des années 1920, les discussions sur la révolution sexuelle se poursuivent dans plusieurs pays européens. Le terme est alors mis en avant par le médecin et psychanalyste communiste autrichien Wilhelm Reich (Die Sexualität im Kulturkampf, 1936, traduit sous le titre La Révolution Sexuelle) et par le socialiste français Émile Armand (La Révolution sexuelle et la camaraderie amoureuse, 1934). C’est aussi l’époque de la création de la Ligue mondiale pour la réforme sexuelle (1921-1932) qui milite pour des réformes législatives sur les questions sexuelles, du développement de la sexologie, et d’intenses théorisations communistes, marxistes et anarchistes. 
+La révolution russe de 1917 fait naître l’espoir de combiner communisme et libération de la sexualité grâce à la légalisation de l’avortement, la dépénalisation de l’homosexualité et la défense de l’amour libre, notamment dans les ouvrages de la communiste et féministe Alexandra Kollontaï (1872-1952). Si l’URSS enterre l’espoir d’une révolution sexuelle soviétique en abandonnant nombre de lois progressistes au fil des années 1920, les discussions sur la révolution sexuelle se poursuivent dans plusieurs pays européens. Le terme est alors mis en avant par le médecin et psychanalyste communiste autrichien Wilhelm Reich (*Die Sexualität im Kulturkampf*, 1936, traduit sous le titre *La Révolution Sexuelle*) et par le socialiste français Émile Armand (*La Révolution sexuelle et la camaraderie amoureuse*, 1934). C’est aussi l’époque de la création de la Ligue mondiale pour la réforme sexuelle (1921-1932) qui milite pour des réformes législatives sur les questions sexuelles, du développement de la sexologie, et d’intenses théorisations communistes, marxistes et anarchistes. 
 
-Entre les années 1950 et 1970, les textes de Reich circulent et de nouvelles figures tutélaires émergent, comme le philosophe Herbert Marcuse (1898-1979) qui affirme que la sexualité est réprimée par la société capitaliste. Leurs idées se répandent d’abord dans des milieux anarchistes et communistes opposés aux partis communistes européens et au régime soviétique, ceux-ci perpétuant une morale sexuelle qu’on peut qualifier de conservatrice, avant d’atteindre les milieux étudiants autour du moment 68. En France, en témoignent par exemple l’ouvrage du communiste libertaire et militant homosexuel Daniel Guérin Essai sur la révolution sexuelle après Reich et Kinsey (1969) et les nombreux graffitis revendiquant la liberté sexuelle en Mai 68 (ill. 5).
+Entre les années 1950 et 1970, les textes de Reich circulent et de nouvelles figures tutélaires émergent, comme le philosophe Herbert Marcuse (1898-1979) qui affirme que la sexualité est réprimée par la société capitaliste. Leurs idées se répandent d’abord dans des milieux anarchistes et communistes opposés aux partis communistes européens et au régime soviétique, ceux-ci perpétuant une morale sexuelle qu’on peut qualifier de conservatrice, avant d’atteindre les milieux étudiants autour du moment 68. En France, en témoignent par exemple l’ouvrage du communiste libertaire et militant homosexuel Daniel Guérin *Essai sur la révolution sexuelle après Reich et Kinsey* (1969) et les nombreux graffitis revendiquant la liberté sexuelle en Mai 68 (ill. 5).
+
+![Ill. 5 : Graffiti en mai-juin 1968, photographie de Jo Schnapp (source : *L’Imagination au pouvoir*, Éditions Allia, 2018)](graf.jpg)
 
 ## Bibliographie
-
-
 
 Paris, Myriam, « La racialisation d’une politique publique : le contrôle de la natalité à La Réunion (années 1960-1970) », *Politix*, 131/3 (2020) : 29-52.
 
