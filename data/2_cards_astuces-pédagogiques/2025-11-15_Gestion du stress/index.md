@@ -4,7 +4,8 @@ uuid: 98654b6e-0b25-46bb-afdc-52e7e6abbb23
 
 title: "Exercices de gestion du stress en amphi"
 
-author: Alix Boulouis
+author: 
+    - Alix Boulouis
 tags:
     - retours d'expérience
     - corps
