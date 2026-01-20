@@ -1,4 +1,6 @@
 ---
+uuid: bebfca65-830a-4d64-be07-495f891905d7
+
 
 title: "Enseigner les masculinités avec la méthaphore de l'homme tomate"
 author: 
