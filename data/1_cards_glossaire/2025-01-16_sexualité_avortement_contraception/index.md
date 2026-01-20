@@ -17,7 +17,7 @@ tags:
 
 image: data/1_cards_glossaire/2025-01-16_sexualité_avortement_contraception/fhar.jpg
 
-abstract: Le terme de révolution sexuelle qualifie communément un processus de transformation des sexualités qui s’est opéré dans la seconde moitié du xxe siècle dans de nombreux pays occidentaux. Cette qualification n’est pas seulement descriptive : il s’agit d’une interprétation qui analyse ces transformations comme un renversement profond des normes et pratiques sexuelles. L’usage de ce terme est débattu, autant par des sociologues, historiennes et historiens que dans le débat public. Le terme de révolution sexuelle renvoie également à un concept politique historiquement situé, qui a particulièrement circulé dans l’entre-deux-guerres et les années 1968.
+abstract: "Le terme de révolution sexuelle qualifie communément un processus de transformation des sexualités qui s’est opéré dans la seconde moitié du xxe siècle dans de nombreux pays occidentaux. Cette qualification n’est pas seulement descriptive : il s’agit d’une interprétation qui analyse ces transformations comme un renversement profond des normes et pratiques sexuelles. L’usage de ce terme est débattu, autant par des sociologues, historiennes et historiens que dans le débat public. Le terme de révolution sexuelle renvoie également à un concept politique historiquement situé, qui a particulièrement circulé dans l’entre-deux-guerres et les années 1968."
 ---
 
 ## Les transformations de la sexualité dans les années 1960-1970
@@ -69,3 +69,4 @@ Ruault, Lucile, « Libération sexuelle ou “pression à soulager ces messieurs
 Shepard, Todd, *Mâle décolonisation. L’« Homme arabe » et la France, de l’indépendance algérienne à la révolution iranienne*, Paris, Payot, 2017.
 
 Shield, Andrew DJ, *Immigrants in the Sexual Revolution: Perceptions and Participation in Northwest Europe*, Londres, Palgrave McMillan, 2017.
+
