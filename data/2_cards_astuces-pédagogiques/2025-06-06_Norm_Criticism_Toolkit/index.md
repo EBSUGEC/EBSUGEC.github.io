@@ -1,8 +1,9 @@
 ---
 uuid: 59f957d4-45ad-4540-a798-3ad0c4c49f77
 
-title: "Qu’est-ce sont les normes et qu’est-ce qu’une approche critique des normes ? A propos de *Norm Criticism Toolkit* (2015)"
+title: "Qu’est-ce qu’une approche critique des normes ? A propos de *Norm Criticism Toolkit* (2015)"
 
+author: Heta Rundgren
 tags:
     - théorie féministe
 ---

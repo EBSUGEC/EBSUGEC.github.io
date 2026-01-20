@@ -16,9 +16,7 @@ tags:
 
 [Musea](https://musea.fr/s/musea/page/archives-musea) est un musée virtuel né à l’initiative de Christine Bard, hébergé par l’université d’Angers, consacré à l’histoire des femmes et du genre. Plusieurs expositions permettent d’aborder, de manière incarnée, des enjeux liés à l’histoire du travail, des luttes, des corps ou des sciences. Elles peuvent également nourrir des corpus documentaires et alimenter des réflexions sur la mise en récit muséale. 
 
-
-![Icônes extraites de différentes expositions virtuelles - MUSEA 2004-2022](Musea‧png)
-
+![Icônes extraites de différentes expositions virtuelles - MUSEA 2004-2022](Musea.PNG)
 
 La navigation est particulièrement aisée avec une structure claire et progressive, un lexique et la possibilité de prolonger par des lectures et documentaires proposés en bibliographie. 
 

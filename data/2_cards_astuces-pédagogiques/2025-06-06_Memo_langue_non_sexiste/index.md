@@ -3,7 +3,7 @@ uuid: 5ae945c7-b07c-4df7-82a3-3e8ecf79428d
 
 title: "Un mémo pour des usages non-sexistes de la langue"
 author: 
-    - BlancheTurck
+    - Blanche Turck
 tags:
     - littérature/linguistique
     - intersectionnalité
