@@ -1,5 +1,9 @@
 {
-    "title": "Site Académique",
-    "siteUrl": "https://genreencours.fr",
-    "logo": "icon.svg"
+    "title": "Genre en cours",
+    "siteUrl": "https://genre-en-cours.fr",
+    "logo": "test.svg",
+    "googleVerification": "a remplacer",
+    "categories": [
+        "qui", "Qui sommes nous ? "
+    ]
 }
