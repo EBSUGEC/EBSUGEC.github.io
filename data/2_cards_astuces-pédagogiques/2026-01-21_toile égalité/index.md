@@ -9,7 +9,7 @@ author:
 tags:
     - retours d'expérience
     - scénario péda/exercices
-    - oral
+    - théorie féministe
 ---
 
 ## La Toile de l’égalité 
