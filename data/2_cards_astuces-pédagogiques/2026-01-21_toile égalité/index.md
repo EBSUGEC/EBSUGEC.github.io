@@ -1,5 +1,7 @@
 
 ---
+uuid: abdc8165-08ad-4638-95f3-f08804adde07
+
 
 title: "Construire des contextes d’apprentissage égalitaires à l’aide de la Toile de l’égalité"
 author: 

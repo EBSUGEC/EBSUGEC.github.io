@@ -1,4 +1,6 @@
 ---
+uuid: e71fb03a-3edd-4759-af76-33132a69738b
+
 title: "Mettre en place une gestion égalitaire de la participation orale des étudiant•es"
 author: 
     - Sarah Sagueton
