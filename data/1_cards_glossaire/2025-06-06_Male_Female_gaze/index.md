@@ -1,7 +1,7 @@
 ---
 uuid: c11b23e4-b5a4-4b2d-a295-da2c9f20d8cf
 
-title: "Regard genré : Du « male gaze » au « feminist gaze » au cinéma et en littérature"
+title: "Regard genré : du « male gaze » au « feminist gaze » au cinéma et en littérature"
 author: 
     - Adèle Hoareau
 tags:

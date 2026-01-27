@@ -18,12 +18,11 @@ abstract: Durant la vague contestataire des années 1968, les mouvements fémini
 
 ---
 
-Du 4 au 8 mars 1976, le palais des Congrès de Bruxelles accueille 2 000 femmes venues du monde entier assister au Tribunal international contre les crimes faits aux femmes !
+Du 4 au 8 mars 1976, le palais des Congrès de Bruxelles accueille 2 000 femmes venues du monde entier assister au Tribunal international des crimes contre les femmes.
 
-![Ill. 1 : Affiche du Tribunal des crimes contre les femmes, Bruxelles, 4 au 8 mars 1976. Source : Ville de Paris / Bibliothèque Marguerite Durand, AFF 149 m](crimefemme.jpeg) 
+![Ill. 1 : Affiche du Tribunal des crimes contre les femmes, Bruxelles, 4 au 8 mars 1976. Source : Ville de Paris / Bibliothèque Marguerite Durand, AFF 149 m](crimefemme.jpg) 
 
 Cette initiative vise l’identification et la dénonciation féministe des violences faites aux femmes, définies dans une acception large, aussi bien sexuelle, familiale, médicale qu’économique, culturelle et politique.
- 
  
  Pour faire de cette multiplicité de situations un problème politique cohérent, les féministes développent des outils théoriques, pensent leur rôle dans la perpétuation de la domination masculine ou inventent des concepts. Dans les années 1980, la sociologue britannique Liz Kelly (1951-) utilise celui de continuum de la violence sexuelle pour penser tant la variété et l’étendue des violences auxquelles les femmes sont confrontées au cours de leur vie que les liens entre ces différentes formes de violence. Ce rapprochement passe aussi par la circulation d’idées et de modes d’action aux échelles européennes et internationales. Selon les lieux, les premières mobilisations se sont focalisées sur certains sujets emblématiques, comme le viol ou les violences conjugales.
 

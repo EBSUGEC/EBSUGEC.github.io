@@ -14,7 +14,9 @@ tags:
 
 ---
 
-## Exercices d’écriture créative pour annihiler les effets de la menace du stéréotype, ou tout simplement réduire le stress des exams.
+## Exercices d’écriture créative 
+
+Objectif : pour annihiler les effets de la menace du stéréotype, ou tout simplement réduire le stress des examens.
 
 Temps : 15 min
 Le plus efficace : juste avant l’épreuve, mais marche aussi plus tôt dans la même journée.
