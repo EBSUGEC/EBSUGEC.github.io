@@ -20,7 +20,7 @@ abstract: Durant la vague contestataire des années 1968, les mouvements fémini
 
 Du 4 au 8 mars 1976, le palais des Congrès de Bruxelles accueille 2 000 femmes venues du monde entier assister au Tribunal international contre les crimes faits aux femmes !
 
-[Ill. 1 : Affiche du Tribunal des crimes contre les femmes, Bruxelles, 4 au 8 mars 1976. Source : Ville de Paris / Bibliothèque Marguerite Durand, AFF 149 m](crimefemme.jpeg) 
+![Ill. 1 : Affiche du Tribunal des crimes contre les femmes, Bruxelles, 4 au 8 mars 1976. Source : Ville de Paris / Bibliothèque Marguerite Durand, AFF 149 m](crimefemme.jpeg) 
 
 Cette initiative vise l’identification et la dénonciation féministe des violences faites aux femmes, définies dans une acception large, aussi bien sexuelle, familiale, médicale qu’économique, culturelle et politique.
  
@@ -32,11 +32,10 @@ Cette initiative vise l’identification et la dénonciation féministe des viol
 Au Royaume-Uni, le mouvement féministe se saisit dès 1971 de la cause des victimes de violences conjugales, désignées alors comme des « femmes battues ». Un collectif de femmes du quartier londonien de Chiswick ouvre un premier refuge appelé Women’s Aid. D’autres apparaissent ensuite sous le même nom et se fédèrent à l’échelle nationale en 1974. Parmi les initiatrices du refuge de Chiswick, Erin Pizzey (1939-) se distingue par ses efforts pour médiatiser l’expérience. Elle publie en 1974 Scream Quietly or the Neighbours Will Hear, un recueil de témoignages largement diffusé et adapté en documentaire pour la télévision. Toutefois, au sein du mouvement britannique, Pizzey est contestée pour ses prises de position antiféministes, hostiles à la libération lesbienne, et parce qu’elle prône une gestion centralisée des refuges que ses opposantes considèrent comme non démocratique. Son analyse des violences par la psychologie plutôt qu’en dénonçant la famille patriarcale est aussi critiquée.
 
 
-
-
 Elle devient pourtant une figure de référence à l’étranger. Les traductions de son livre, en français (1975), néerlandais (1975), allemand (1976), italien (1977) ou danois (1979), en font un texte canonique du féminisme de la deuxième vague. 
 
-![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg). 
+![Ill. 2 : Scream Quietly or the Neighbours Will Hear d’Erin Pizzey publié à Londres en 1974 et ses traductions française (Des Femmes, 1975) et italienne (Limenetimena, 1977).](pizzey.jpg) 
+
 Des féministes étrangères visitent le refuge londonien et s’en inspirent, comme à Blijf van mijn lijf (Touche pas à mon corps), ouvert à Amsterdam fin 1974. Accompagnée de femmes et d’enfants résidant à Chiswick, Pizzey entreprend, au printemps 1975, une tournée à Amsterdam, Bonn, Bruxelles et Paris, à la recherche de soutiens institutionnels et militants. À cette occasion, la Ligue du droit des femmes, une association féministe parisienne, commence à s’approprier la question des violences conjugales. Elle ouvre une permanence téléphonique, puis un refuge en 1978, un an après le premier refuge belge.
 
 
@@ -47,7 +46,7 @@ Dans certains espaces, la lutte contre le viol est investie avant la question de
 
 Contre ces violences, en particulier celles qui ont lieu dans la rue, les féministes se dotent d’un nouvel outil : la marche de nuit.
 
-![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches.jpg). 
+![Ill. 3 :  Affiches pour des marches de nuit féministes françaises, 1979 et 1982. Source : Ville de Paris / Bibliothèque Marguerite Durand, reproduites dans [Marie Godo, « Femmes, prenons la nuit ! Les marches de nuit contre les violences sexistes et sexuelles dans la seconde moitié des années 1970 », *L’effet Marguerite*, 15 septembre 2024](https://bmd.hypotheses.org/7906)](marches.jpg) 
 
 Cette réappropriation collective de l’espace public est utilisée pendant le Tribunal de Bruxelles, reprise à Rome et à Berlin en 1976, dans plusieurs villes d’Allemagne de l’Ouest le 30 avril 1977, ou à Londres et Leeds cette même année 1977. Ces manifestations souvent festives s’accompagnent d’actions parfois spectaculaires, des graffitis dénonçant le viol au collage d’affiches accusant nommément des violeurs, en passant par les dégradations de commerces considérés comme participant de la culture du viol. À Leeds, la mobilisation a été avivée par une série de treize meurtres de femmes, dont des travailleuses du sexe, commis entre 1975 et 1980 par un même homme. Un groupe, Angry Women, s’y démarque par sa virulence : dix-sept incendies de sex-shops lui sont attribués en 1983.
 
@@ -69,7 +68,7 @@ Bérard, Jean, *La justice en procès. Les mouvements de contestation face au sy
 
 Delage, Pauline, *Violences conjugales. Du combat féministe à la cause publique*, Presses de Sciences po, 2017.
 
-Giacinti, Margot, « Le Tribunal international des crimes contre les femmes (mars 1976). Un moment-clé dans la conceptualisation du féminicide ? », *Cahiers du Genre*, no 73, 2022, p. 85‑110.
+Giacinti, Margot, « Le Tribunal international des crimes contre les femmes (mars 1976). Un moment-clé dans la conceptualisation du féminicide ? », *Cahiers du Genre*, n°73, 2022, p. 85‑110.
 
 Korsvik, Trine Rogg, *Politicizing Rape and Pornography. 1970s Feminist Movements in France and Norway*, Palgrave Macmillan, 2020.
 
