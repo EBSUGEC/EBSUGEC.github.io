@@ -11,7 +11,7 @@ tags:
     - masculinités
 ---
 
-## La métaphore de l’homme tomate : e la tomate en pizza à la masculinité dans l’individu
+## La métaphore de l’homme tomate : de la tomate en pizza à la masculinité dans l’individu
 
 Comprendre sociologiquement la masculinité est difficile tant un écart existe entre les discours médiatiques, y compris parmi des militant•es féministes, et ce qu’en disent les sciences sociales. Savoir en quoi consiste la masculinité permet aussi bien de comprendre pourquoi tous les hommes ont certains comportements communs, tout en étant pourtant des personnes différentes, uniques mêmes.
 
