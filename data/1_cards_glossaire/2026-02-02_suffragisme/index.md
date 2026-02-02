@@ -1,4 +1,6 @@
 ---
+uuid: ef5e2750-b2b6-43a7-bd8a-5796d5c71be4
+
 title: "Le suffragisme : définition et histoire des droits politiques des femmes"
 author: 
     - Anne Sarah Bouglé Moalic
