@@ -11,6 +11,7 @@ tags:
     - époque contemporaine
     - luttes
     - violences
+    - partenariat EHNE
 
 abstract: "Du 4 au 8 mars 1976, le Palais des Congrès de Bruxelles accueille le Tribunal international des crimes contre les femmes (ci-après TICF ou Tribunal). Contrairement à ce à quoi laissait présager son nom, le Tribunal n’est pas une juridiction mais une tribune politique féministe. L’objectif annoncé par le comité de coordination était double : faire reconnaître l’aspect systémique des oppressions subies par les femmes tout en proposant un espace de rencontre transnational pour renforcer les liens entre différent groupes féministes. En faisant le choix d’organiser l’évènement en non-mixité féminine, le Tribunal s’est coupé d’une couverture médiatique importante, qui a certainement contribué à en réduire la visibilité et la portée. Il s’agissait pourtant de l’une des premières plateformes internationales indépendantes ayant dénoncé les inégalités de genre et les violences commises contre les femmes."
 

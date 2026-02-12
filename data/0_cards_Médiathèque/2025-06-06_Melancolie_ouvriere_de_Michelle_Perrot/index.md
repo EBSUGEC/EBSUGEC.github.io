@@ -8,15 +8,16 @@ tags:
     - luttes
     - histoire/civilisation
     - époque contemporaine
+    - partenariat EHNE
     
 
-abstract: "Dans son ouvrage Mélancolie ouvrière (Paris, Grasset, 2012), Michelle Perrot retrace la vie de Lucie Baud, ouvrière de l’industrie de la soie, militante et syndicaliste (1870-1913). Une biographie qui éclaire l’histoire des classes populaires au prisme du genre et permet de saisir le rôle, marginalisé mais bien réel, des femmes des classes populaires dans les luttes sociales du début du xxe siècle."
+abstract: "Dans son ouvrage *Mélancolie ouvrière* (Paris, Grasset, 2012), Michelle Perrot retrace la vie de Lucie Baud, ouvrière de l’industrie de la soie, militante et syndicaliste (1870-1913). Une biographie qui éclaire l’histoire des classes populaires au prisme du genre et permet de saisir le rôle, marginalisé mais bien réel, des femmes des classes populaires dans les luttes sociales du début du xxe siècle."
 
 
 ---
 
 
-## Michelle Perrot, Mélancolie ouvrière
+## Michelle Perrot, *Mélancolie ouvrière*
 
 Historienne des mondes ouvriers, des femmes et du genre, Michelle Perrot entreprend dans cet ouvrage (Ill. 1) de retracer, à partir de rares indices, la trajectoire de vie, de travail et de lutte de Lucie Baud, ouvrière textile et syndicaliste née dans le Dauphiné (1870-1913). En relevant cette gageure, elle explore l’histoire des classes populaires au prisme du genre. 
 
