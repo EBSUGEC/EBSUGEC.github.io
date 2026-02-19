@@ -23,6 +23,6 @@ export const Footer = () => (
             </a>
         </div>
         <div className="footer-block">
-            <p>Pour nous contacter : <a href="mailto:philomel.genre@gmail.com">philomel.genre@gmail.com</a></p>
+            <p>Pour nous contacter : <a href="mailto:genre.en.cours@gmail.com">genre.en.cours@gmail.com</a></p>
         </div>
     </footer>)

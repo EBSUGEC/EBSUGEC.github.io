@@ -11,6 +11,7 @@ tags:
     - théorie féministe
 ---
 
+[Un super lien](/bebfca65-830a-4d64-be07-495f891905d7)
 Toutes les œuvres d'art, qu’elles soient cinématographiques, picturales, musicales ou poétiques, témoignent d’un regard sur le monde. C’est pour la singularité de ce regard que les artistes sont appréciés. Mais celui-ci n'est jamais neutre ; il ne peut s'extraire du cadre socioculturel dans lequel l’artiste évolue. Ainsi, dans une société patriarcale, dans laquelle les créations culturelles sont largement écrites, réalisées ou rendues publiques par des hommes, un point de vue majoritaire se dessine en filigrane, présenté comme neutre ou universel, mais derrière lequel se cache un point de vue bien masculin, conceptualisé en anglais sous le terme de « male gaze ». Le patriarcat ne reste pas à la porte de la création artistique, il s’y invite, de manière plus ou moins consciente, plus ou moins frappante.
 
 Pour Azélie Fayolle, chercheuse féministe, « parler de “regard” souligne la continuité entre le regard épistémologique et celui de la “focalisation” (en photographie ou en narratologie) ou du “point de vue” » (*Des femmes et du style: Pour un « feminist gaze »*, p. 33). En d’autres termes, il y a un lien entre la façon dont les artistes comprennent le monde (leur créativité, mais aussi leur cadre socio-culturel, leurs préjugés, leur histoire personnelle…) et la façon dont ces artistes le représentent dans leurs œuvres. Ce point de vue diffère en fonction de notre trajectoire et de nos positions sociales, notre classe sociale, couleur de peau, religion, identité de genre ou orientation sexuelle etc. Un aspect de ce « regard » a particulièrement retenu l’attention des chercheurs et chercheuses en études féministes : la façon dont les artistes regardent et représentent les corps et les rapports de genre.
@@ -53,7 +54,7 @@ Le spectateur, ou la spectatrice, n’a pas d’autre choix que de partager le r
 
 [Une scène de *Meurs un autre jour*](https://www.youtube.com/watch?v=gdbIINpktOs), de Lee Tamahori, sorti en 2002, est souvent citée comme l’exemple canonique de cette superposition de regards. La caméra nous montre James Bond (Pierce Brosnan) observer quelque chose avec des jumelles (A). Le plan suivant est le point de vue de James Bond, marqué par la forme arrondie des jumelles qui observe une jeune femme (Halle Berry) sortir de l’eau (B). Le plan suivant cadre à nouveau James Bond, qui baisse ses jumelles mais continue à regarder la « James Bond Girl » (plan C). Le contre-champ nous montre à nouveau la jeune femme, mais cette fois sans le filtre des jumelles (plan D). La vision du personnage masculin devient la nôtre. 
 
-![Captures d’écran de *Meurs un autre jour* (2002)](bond.PNG)
+![Captures d’écran de Meurs un autre jour 2002](bond.PNG)
 
 De ce phénomène découle une autre conséquence dans la représentation des femmes à l'écran: leur rôle restreint dans l'intrigue et leur relatif silence. « La présence de la femme est donc un élément indispensable du spectacle dans les films narratifs classiques, et pourtant son impact visuel tend à empêcher le bon déroulement de l’histoire, à geler l’action en moments de contemplations érotiques » écrit aussi Mulvey (1975, 11). Les personnages féminins sont souvent réduits au silence, ou à des conversations sur les autres personnages masculins et leurs relations. 
 
