@@ -10,6 +10,7 @@ tags:
     - époque contemporaine
     - violences
     - sexualités
+    - partenariat EHNE
 
 abstract: "Dans son ouvrage *Violette Nozière, la fleur du mal. Une histoire des années trente* (Paris, Champ Vallon, 2017), l’historienne Anne-Emmanuelle Demartini retrace la réception d’un fait divers qui a marqué la société des années 1930 : l’affaire de la parricide Violette Nozière. À partir de ce cas, elle explore la manière dont le genre façonne les imaginaires sociaux. Pour ce faire, elle s’appuie à la fois sur les archives de la justice et sur la presse, foisonnante durant l’entre-deux-guerres."
 

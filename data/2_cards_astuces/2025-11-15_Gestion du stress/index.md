@@ -10,10 +10,13 @@ tags:
     - retours d'expérience
     - corps
     - scénario péda/exercices
+    - biologie
 
 ---
 
-## Exercices d’écriture créative pour annihiler les effets de la menace du stéréotype, ou tout simplement réduire le stress des exams.
+## Exercices d’écriture créative 
+
+Objectif : pour annihiler les effets de la menace du stéréotype, ou tout simplement réduire le stress des examens.
 
 Temps : 15 min
 Le plus efficace : juste avant l’épreuve, mais marche aussi plus tôt dans la même journée.
@@ -49,7 +52,8 @@ Essayez s’il vous plaît d’être aussi ouvert.e que possible à vos différe
 
 3)	Réévaluation de la situation (d’après (Rozek et al. 2019)
 Comme vous pouvez vous y attendre, passer un examen peut être une expérience stressante. Avant de commencer votre examen, nous vous proposons une procédure destinée à vous aider à être à votre meilleure performance. Dans un premier temps, lisez le texte suivant qui est extrait d’un article scientifique. Les informations suivantes concernent la façon dont la réponse corporelle au stress aide à augmenter les performances. Pendant que vous lisez, essayez de penser à comment ces réponses corporelles peuvent vous aider à mieux réussir l’examen que vous vous apprêtez à passer. Après cette lecture, vous pourrez répondre à deux questions sur ce que vous venez de lire.
-Le texte suivant est basé sur le Workbook de Craske & Barlow (2012) intitulé Anxiété et Panique.
+
+Le texte suivant est basé sur le *Workbook* de Craske & Barlow (2012) intitulé *Anxiété et Panique*.
 L’anxiété ou la nervosité est une réaction physique normale qui vous aide à gérer les choses qui vous stressent. Elle n’est pas dangereuse. En fait, si nous n’avions pas ces réactions, nous ne pourrions pas survivre. Si la nervosité est utile, pourquoi est-elle si désagréable ? Se sentir nerveux ou nerveuse à cause d’un examen est le résultat de la façon dont on pense que notre corps fonctionne. Pendant que le système de fuite / combat s’active, notre cerveau essaie de comprendre s’il y a quelque chose de dangereux autour de nous. Cependant, dans notre société moderne il n’y a généralement pas de danger physique ou menace évidente. Quand il ne trouve pas de tel danger, notre cerveau peut commencer à inventer des raisons comme par exemple « il y a un problème avec moi, je ne vais pas y arriver ». Rien ne pourrait être plus loin de la vérité ! Quand vous ressentez de la nervosité ou de l’anxiété, souvenez-vous que vos réponses corporelles sont bonnes. Un rythme cardiaque plus élevé, une transpiration accrue, une respiration plus rapide vous aident à apporter l’oxygène où vous en avez besoin. Par exemple, cela veut dire que votre corps est en train de libérer de l’énergie (du glucose) et plus de dioxygène pour votre cerveau, ce qui va vous aider à rester alerte et à prêter plus d’attention à ce qui vous arrive. Cela veut dire qu’un rythme cardiaque plus élevé, une respiration plus rapide ou des mains moites peuvent en fait être des choses utiles. Ce sont les façons dont votre corps vous remplit d’énergie et améliore votre attention ! Donc, si vous êtes stressé.e avant un examen, pensez à la façon dont votre corps est en train de vous donner l’énergie nécessaire à réussir l’épreuve au mieux.
 
 Question 1 : Quelles sont les réponses corporelles de certaines personnes quand elles se sentent nerveuses ? Pourquoi cela se produit-il ?
