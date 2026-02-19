@@ -16,5 +16,4 @@ tags:
     - corps
     - partenariat EHNE
     - partenariat MNHN
-
-abstract: "
+---

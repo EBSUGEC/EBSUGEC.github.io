@@ -14,7 +14,6 @@ tags:
     - partenariat EHNE
     - partenariat MNHN
 
-abstract: "
 ---
 
 
