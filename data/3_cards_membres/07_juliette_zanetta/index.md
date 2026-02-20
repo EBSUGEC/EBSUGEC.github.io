@@ -1,4 +1,6 @@
 ---
+uuid: db710b90-b98a-4a47-a120-b39298e02329
+
 
 title: "Juliette Zanetta"
 ---
