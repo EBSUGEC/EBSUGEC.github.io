@@ -50,7 +50,7 @@ Vous pouvez écrire sur vos pensées actuelles ou bien sur ce que vous avez ress
 Essayez s’il vous plaît d’être aussi ouvert.e que possible à vos différentes pensées.
 
 
-3)	Réévaluation de la situation (d’après (Rozek et al. 2019)
+3)	Réévaluation de la situation (d’après Rozek et al. 2019)
 Comme vous pouvez vous y attendre, passer un examen peut être une expérience stressante. Avant de commencer votre examen, nous vous proposons une procédure destinée à vous aider à être à votre meilleure performance. Dans un premier temps, lisez le texte suivant qui est extrait d’un article scientifique. Les informations suivantes concernent la façon dont la réponse corporelle au stress aide à augmenter les performances. Pendant que vous lisez, essayez de penser à comment ces réponses corporelles peuvent vous aider à mieux réussir l’examen que vous vous apprêtez à passer. Après cette lecture, vous pourrez répondre à deux questions sur ce que vous venez de lire.
 
 Le texte suivant est basé sur le *Workbook* de Craske & Barlow (2012) intitulé *Anxiété et Panique*.
