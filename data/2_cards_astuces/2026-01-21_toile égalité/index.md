@@ -64,7 +64,7 @@ Freire, P. (1974). *Pédagogie des opprimés* suivi de *Conscientisation et rév
 
 Sagueton, S. (2023). La coopération : l'apprentissage d'une démarche d'émancipation. *Educ' Freinet*, 261, 40.
 
-Solar, C. (2019). La Toile de l’équité et le débat. Activités de formation pour l’égalité des sexes. *Genre, éducation et formation*, 3. .
+Solar, C. (2019). [La Toile de l’équité et le débat. Activités de formation pour l’égalité des sexes.](https://journals.openedition.org/gef/pdf/429) *Genre, éducation et formation*, 3.
 
 Viennot, É. (2018). *Le langage inclusif : pourquoi, comment*. Éditions iXe.
 
