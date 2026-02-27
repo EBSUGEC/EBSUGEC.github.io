@@ -17,4 +17,4 @@ Pour nous contacter : genre.en.cours@gmail.com
 Bonne visite !
 
 
-Retrouver ici nos auteur•ices :
+## Retrouver ici nos auteur•ices :

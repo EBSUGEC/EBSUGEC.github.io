@@ -12,6 +12,8 @@ tags:
 
 ---
 
+## Retours d'expérience d'enseignement
+
 Enseignant les littératures francophones et travaillant très fréquemment sur des textes ayant une dimension antiraciste, j’ai remarqué qu’il était parfois délicat de dénoncer la misogynie de certains de ces textes. Comme s’il existait en moi le désir d’une solidarité des luttes. Si j’écris aujourd’hui ce billet, c’est parce qu’il m’a semblé que ce désir était partagé par bon nombre d’étudiant‧es, et pouvait parfois entraver leur lecture des textes. 
 
 J’ai constaté que faire étudier les féminismes africains-américains permettait montrer la complexité des phénomènes d’oppression et rendait possible l’étude de textes à la fois anti-racistes et sexistes. 
