@@ -31,7 +31,7 @@ Angélique du Coudray dispense des cours itinérants de 6 à 8 semaines en moyen
 
 Angélique du Coudray n’est pas la première sage-femme renommée – elle succède par exemple à Louise Bourgeois (1563-1636), sage-femme de Marie de Médicis et autrice d’ouvrages d’obstétrique – et elle participe à une [dynamique de professionnalisation et de consolidation des savoirs et des savoir-faire autour de la naissance en Europe](https://ehne.fr/fr/encyclopedie/th%C3%A9matiques/genre-et-europe/de-la-transition-d%C3%A9mographique-aux-r%C3%A9volutions-sexuelles/les-sages-femmes-en-europe), comme en témoigne l’anglaise Elizabeth Nihell (1723-1776) ou l’allemande Justine Siegemundin (1636-1705). Son parcours est toutefois exceptionnel du fait de ce rôle de formatrice en dehors de structures hospitalières et de la reconnaissance nationale qu’elle obtient comme enseignante et maîtresse sage-femme.
 
-## Une méthode pédagogique originale : former les sages-femmes femmes en se mettant à leur portée
+## Une méthode pédagogique originale : former les sages-femmes en se mettant à leur portée
 
 L’expertise d’Angélique du Coudray n’est pas liée à son expérience directe puisqu’elle n’a pas connu la maternité. Sa méthode possède un versant théorique, par le manuel qu’elle publie visant à transmettre des connaissances anatomiques de base avec de nombreuses planches illustrées en couleurs (ill. 2), et un versant pratique, par la démonstration puis la manipulation du mannequin d’accouchement (ill. 3). 
 
