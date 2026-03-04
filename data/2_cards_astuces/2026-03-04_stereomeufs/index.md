@@ -21,7 +21,7 @@ Site lancé en 2018 par ADOSEN Prévention Santé MGEN, en partenariat notamment
  
 ## QUOI : 
 
-Quatre saisons d’épisodes courtes (3 à 5 mn) dont une grande partie co-écrite avec des collégien·nes ou des étudiant·es. Chaque saison a un guide pédagogique téléchargeable gratuitement avec des activités à animer en classe.
+Quatre saisons d’épisodes courts (3 à 5 mn) dont une grande partie co-écrite avec des collégien·nes ou des étudiant·es. Chaque saison a un guide pédagogique téléchargeable gratuitement avec des activités à animer en classe.
  
 Les sujets touchent aux stéréotypes rencontrés dans différents espaces (travail, famille, sport, école, université) ; qui affectent les relations familiales, amoureuses ou amicales ; qui produisent des violences et/ou du harcèlement.
  
