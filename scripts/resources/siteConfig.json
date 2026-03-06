@@ -1,10 +1,12 @@
 {
-    "title": "Genre en cours",
-    "siteUrl": "https://genre-en-cours.fr",
-    "logo": "test.svg",
-    "googleVerification": "a remplacer",
-    "categories": [
-        "membres", "Qui sommes nous ? ",
-        "astuces", "Astuces pédagogiques "
-    ]
+  "title": "Genre en cours",
+  "siteUrl": "https://genre-en-cours.fr",
+  "logo": "test.svg",
+  "googleVerification": "rQ2JQCxaocKHmjba_CqgftmdPUzZGLmfbyKW5pekIpY",
+  "categories": [
+    "membres",
+    "Qui sommes nous ? ",
+    "astuces",
+    "Astuces pédagogiques "
+  ]
 }

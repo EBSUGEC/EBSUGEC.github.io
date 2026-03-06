@@ -2,7 +2,7 @@
 uuid: b8e876ff-2365-498d-a024-e971e82af0fd
 
 
-title: "Qu'est-ce que serait une pédagogie neuroqueer ?"
+title: "Qu'est-ce que <i>serait une pédagogie</i> neuroqueer ?"
 author: 
     - Ombre Tarragnat
 tags:
@@ -17,7 +17,7 @@ abstract: "Qu’est-ce que les militant‧es et théoricien‧nes au croisement 
 Cette notice se propose de mobiliser la perspective de la neurodiversité pour penser une pédagogie neuroqueer. Elle retrace d’abord le développement du lexique de la neurodiversité avant d’introduire la théorie neuroqueer de Nick Walker. Elle consacre enfin quelques réflexions sommaires à la neuroqueerisation des espaces d’apprentissage à partir des travaux  de Helen Edgar et Ryan Boren."
 ---
 
-## Neurodiversité, neurodivergence, neuroqueer
+## Neurodiversité, *neurodivergence*, neuroqueer
 
 Le concept de neurodiversité émerge dans les années 1990 au sein de la communauté pour la vie autonome (*Independent Living*, en anglais), un espace en ligne international constitué en premier lieu par des personnes autistes. Inspiré par la notion de biodiversité et par les différentes formes de diversité sociale (sexuelle, ethnique, culturelle, etc.), il renvoie à la diversité des modes de fonctionnement neurocognitif – et donc, par extension, de styles affectifs, comportementaux et existentiels.
 
@@ -78,4 +78,4 @@ Nick Walker, [*Transformative Somatic Practices and Autistic Potentials: An Auto
 
 Nick Walker, *Neuroqueer Heresies: Notes on the Neurodiversity Paradigm, Autistic Empowerment, and Postnormal Possibilities*, Fort Worth, Autonomous Press, 2021.
 
-M. Remi Yergeau, *Authoring Autism: On Rhetoric and Neurological Queerness*, Durham et Londres, Duke University Press, 2018. 
+M. Remi Yergeau, *Authoring Autism: On Rhetoric and Neurological Queerness*, Durham et Londres, Duke University Press, 2018.
