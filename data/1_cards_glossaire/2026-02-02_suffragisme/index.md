@@ -39,7 +39,7 @@ Dans les médias et le vocabulaire courant, le terme « suffragette » a pris le
 
 Les suffragettes sont issues du mouvement suffragiste britannique. Un journaliste emploie ce terme pour la première fois en 1906 pour dénigrer des militantes du WSPU. Tout comme « féministe » utilisé contre les militantes françaises dans les années 1870, les Anglaises se le réapproprient avec fierté. Ce groupe durcit ses actions à partir de 1908 et plus particulièrement, entre 1910 et 1914, avec une série d’attentats à la bombe et d’incendies contre des bâtiments publics, des boîtes aux lettres et la résidence d’hommes politiques. Les manifestations sont réprimées avec brutalité : les autorités n’hésitent pas à emprisonner et à nourrir de force les suffragettes pour briser les grèves de la faim (Ill. 2).
 
-![Ill. 2. Une du Daily Mirror du 21 mars 1907 représentant des militantes arrêtées par la police britannique. Source : British Newspaper Archive](daily.jpeg)
+![Ill. 2. Une du *Daily Mirror* du 21 mars 1907 représentant des militantes arrêtées par la police britannique. Source : British Newspaper Archive](daily.jpeg)
 
 Alors qu’aucun autre pays n’a connu la même radicalisation, c’est pourtant « suffragette » qui reste dans les mémoires, donnant l’impression que le droit de vote, enfin obtenu pour les femmes de plus de 30 ans en 1918 au Royaume-Uni, est une victoire qui leur est due. Le débat avait pourtant débuté dès les années 1860 et ce droit, accordé en même temps que le suffrage universel masculin, demeure partiel pour les femmes.
 
