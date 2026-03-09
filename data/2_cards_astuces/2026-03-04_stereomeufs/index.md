@@ -8,7 +8,7 @@ author:
 tags:
 - scénario péda/exercices
 
-
+image: data/2_cards_astuces/2026-03-04_stereomeufs/stereomeufs.PNG
 ----
 
 [Genre-en-cours recommande cette ressource](https://www.stereotypestereomeuf.fr/)
