@@ -14,7 +14,7 @@ tags:
 
 abstract: "Le suffragisme est un mouvement social et politique de revendication des droits de vote et d’éligibilité pour les femmes. Il s’est développé dans le monde occidental à partir du milieu du 19e siècle, en particulier aux États-Unis, en France et en Grande-Bretagne, jusqu’à l’obtention de ces droits à des dates variées et respectivement, en 1920, 1944 et 1918. Les femmes et hommes militant pour ce droit sont nommés suffragistes. Ils et elles portent en général d’autres combats en parallèle, notamment en faveur de l’émancipation des femmes ou d’autres catégories sociales défavorisées."
 
-image: data/1_cards_glossaire/2026-02-02_suffragisme/urne.png
+image: urne.png
 ---
 
 ## Le suffragisme : une revendication en faveur de l’égalité

@@ -8,7 +8,12 @@ tags:
     - littérature/linguistique
     - intersectionnalité
     - retours d'expérience
+
+abstract: "Comment parler d'écriture inclusive ou de langage non-sexiste avec ses étudiants et étudiantes ?" 
+
 ---
+
+## Retours d'expérience : un document distribué pour expliquer les usages non sexistes de la langue
 
 Dans ma pratique d’enseignante dans le supérieur, l’usage du langage non-sexiste s’est progressivement imposé, même si j’ai dû déconstruire beaucoup d’automatismes. J’ai d’abord décidé d’utiliser le langage non-sexiste « naturellement », que ce soit à l’oral en cours, dans mes documents écrits ou en annotant les copies. Je ne voulais pas marquer ce choix en le formulant explicitement. Cependant, j’ai remarqué que cela pouvait déstabiliser : les étudiantes et étudiants ne comprenaient pas toujours comment il leur était possible de s’approprier ces usages, voire même si elles et ils pouvaient le faire dans un cadre académique. J’ai alors décidé de rédiger un « mémo » pour expliquer simplement ce qu’est le langage/l’écriture non-sexiste, et indiquer quelques ressources facilement accessibles en ligne. 
 

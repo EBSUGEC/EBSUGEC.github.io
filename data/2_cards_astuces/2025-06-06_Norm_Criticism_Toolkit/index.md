@@ -7,6 +7,8 @@ author:
     - Heta Rundgren
 tags:
     - théorie féministe
+
+image: normsctk.PNG
 ---
 
 [Genre-en-cours recommande cette ressource](https://www.iglyo.org/resources/norm-criticism-toolkit)
