@@ -5,7 +5,7 @@ title: "querelle des femmes / protoféminisme"
 author: 
     - Anne Debrosse
 tags:
-    - histoire/civilisation/archéologie
+    - histoire/civilisation
     - littérature/linguistique
     - époque moderne
 ---
