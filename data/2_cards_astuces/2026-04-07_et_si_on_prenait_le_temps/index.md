@@ -108,11 +108,11 @@ D’abord, gardons en tête les conseils donnés par Maria-Grace Salamanca Gonz�
 ## Plein de façons de sortir la tête du guidon
 
 En vrac, nous avons proposé :
--       de l’écriture : on propose une contrainte créative (en fonction des envies du jour, de la saison, de nos lectures ou expériences inspirantes du moment), on laisse au groupe un temps d’écriture fixé en amont et on partage ;
--       de la vibration : du chant avec une chorale participative ou juste un canon simple et entrainant ;
--       du mouvement : libre ou guidé, avec des micro-gestes ou des mouvements énormes, en musique ou pas ;
--       des lectures : à haute voix de textes sélectionnés en amont et partagés, style arpentage ; 
--       des échanges : de silences, de mots, de lettres, de regards, de gestes, de mimes.
+-   de l’écriture : on propose une contrainte créative (en fonction des envies du jour, de la saison, de nos lectures ou expériences inspirantes du moment), on laisse au groupe un temps d’écriture fixé en amont et on partage ;
+-   de la vibration : du chant avec une chorale participative ou juste un canon simple et entrainant ;
+-   du mouvement : libre ou guidé, avec des micro-gestes ou des mouvements énormes, en musique ou pas ;
+-   des lectures : à haute voix de textes sélectionnés en amont et partagés, style arpentage ; 
+-   des échanges : de silences, de mots, de lettres, de regards, de gestes, de mimes.
  
 Et on pourrait ajouter à la liste du dessin, du modelage, de la peinture, du fanzine, du crochet, du tricot, des origamis, du tissage, des activités créatives accessibles, faciles à prendre en main, sans obligation aucune de devoir produire quoi que ce soit, sans devoir venir avec ou développer d’expertise particulière, juste pour le plaisir d’explorer avec les sens, de se décaler, de changer de regard, et de participer à un collectif bienveillant.
 
@@ -129,12 +129,12 @@ Un exemple concret qui mêle échange, écriture et qui peut être conduit en cl
 Avant l'arrivée des participant‧es, on étale, de façon très désordonnée, sur une table, beaucoup de cartes du jeu DIXIT. Il y en existe beaucoup d'autres types, mais elles sont tellement variées, pleines de couleurs, de dessins à la fois esthétiques, mystérieux et intrigants, que malgré elles, elles parviennent à attirer même les plus sceptiques. Il est important de pouvoir circuler librement autour de cette table. Une fois que tout le monde est là, on pose une question, puis on leur demande de choisir une carte de la table afin de répondre à la question. On les invite à laisser l'instinct choisir, à ne pas trop réfléchir à leur choix. On les encourage à bouger autour de la table pour jeter un œil à toutes les cartes. L'idée est aussi d'autoriser le mouvement dans l'espace. Il est possible de répéter cette étape plusieurs fois, jusqu'à 4-5 questions.
  
 Voici quelques exemples de questions : 
--       "Comment vous sentez-vous aujourd'hui ?", question très simple pour se mettre en action sans pression, souvent bien en première position
--       "Pourquoi avez-vous choisi d'être là ?", la question peut fonctionner aussi en classe pour un cours à option, ou  "qu'attendez-vous de ce cours" si le cours n'est pas optionnel.
--       "Comment ressentez-vous le monde ?", la magie des cartes dixit est qu'elle fait naître des réponses complexes à cette question à laquelle du tac au tac il serait très difficile de répondre.
--       "Si vous receviez un cadeau de temps d'une journée, qu'en feriez-vous ?", "Qu'est-ce qui vous ressource ?", "Pour vous, le "Care" c'est quoi ?"
--       "Qu'est-ce qui attire votre attention dans l'actualité ?"
--       "Quand vous pensez au futur du monde (autre version : à votre futur), vous pensez à quoi ?"
+-    "Comment vous sentez-vous aujourd'hui ?", question très simple pour se mettre en action sans pression, souvent bien en première position
+-    "Pourquoi avez-vous choisi d'être là ?", la question peut fonctionner aussi en classe pour un cours à option, ou  "qu'attendez-vous de ce cours" si le cours n'est pas optionnel.
+-    "Comment ressentez-vous le monde ?", la magie des cartes dixit est qu'elle fait naître des réponses complexes à cette question à laquelle du tac au tac il serait très difficile de répondre.
+-    "Si vous receviez un cadeau de temps d'une journée, qu'en feriez-vous ?", "Qu'est-ce qui vous ressource ?", "Pour vous, le "Care" c'est quoi ?"
+-    "Qu'est-ce qui attire votre attention dans l'actualité ?"
+-    "Quand vous pensez au futur du monde (autre version : à votre futur), vous pensez à quoi ?"
  
 La liste est infinie. Ensuite, les personnes se rassemblent en groupe de 8 à 10 maximum et racontent à tour de rôle: l'histoire de leurs cartes, pourquoi elles les ont choisies, sans respecter forcément l’ordre des questions. Il est important d'inviter les personnes du groupe à pratiquer une écoute active et à ne pas interrompre la personne qui parle, à ne pas la corriger ou prétendre régler les problèmes ou désaccords qui peuvent émerger à ce stade. Certaines histoires seront très rapides, d'autres aimeront partager plus longuement leur récit. Il est important de veiller que toustes puissent prendre la parole, on peut donc annoncer un temps max (ex: 4 min), et proposer que la personne à gauche de celle qui parle soit la gardienne du temps, et elles décident ensemble d'un moyen doux pour l'avertir de l'approche de la fin de son temps de parole (ex: 1 min avant en déposant une main sur son bras).
  
@@ -142,9 +142,11 @@ A l'issue de cette partie, qui peut prendre jusque 45 min, vous pouvez proposer 
 
 
 *Ces espaces transforment*
+
 Tous ces espaces éphémères sur le temps de midi, ou en classe, nous ont permis de créer des rencontres entre membres du personnel et étudiant•es, de créer et renforcer des liens, à travers des expériences partagées qui sont autant de temps qui cultivent la joie, la surprise et l’échange et contribuent à tisser le réseau d’essaimage.
 
 *et font grandir le collectif*
+
 Notre force, dans cette initiative, est que nous sommes beaucoup à la porter, et toujours heureuses d’accueillir au sein de l’équipe des essaimeureuses de nouvelles âmes. Au fil de la création de ces espaces éphémères, nous pouvons espérer que le collectif d’essaimage s’agrandisse, jusqu’à ce que prendre le temps de s’extraire, bouger, chanter, écrire, rire, lire à haute voix, ensemble, au milieu du campus, ne soit plus vu comme « hors norme », louche et gênant, mais accueillant et attirant car ressourçant, encapacitant, émancipant et transformateur.
  
 ## Bibliographie
