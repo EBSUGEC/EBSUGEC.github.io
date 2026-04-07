@@ -1,4 +1,6 @@
 ---
+uuid: dd46b973-5970-458a-b1d2-059239fd5cb8
+
 
 title: "Blanche Turck"
 ---
