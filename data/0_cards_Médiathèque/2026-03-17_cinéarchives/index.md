@@ -13,6 +13,7 @@ tags:
     - luttes
     - mémoires
 
+image: ciné archives.PNG
 ---
 
 [Genre-en-cours recommande cette ressource](https://www.cinearchives.org/parcours-tous-les-films-1095-1163-0-0.html)
