@@ -1,7 +1,7 @@
 ---
 uuid: 3b8283bc-60c4-4e96-bc45-33ef1b1b0d37
 
-title: "Qu’est-ce que le *camp* ? Approches esthétiques et socio-historiques en Angleterre et aux Etats-Unis (1868-1972)"
+title: "Qu’est-ce que le camp ? Approches esthétiques et socio-historiques en Angleterre et aux Etats-Unis (1868-1972)"
 author: 
     - Aymeri Duler
 tags:
@@ -11,6 +11,8 @@ tags:
     - époque contemporaine
 
 abstract: "Le *camp* est une notion qui prend racine dans l’argot homosexuel britannique du XIXe siècle. Dans son contexte d’émergence, le terme désigne une appropriation autoparodique de l’efféminement attribué aux hommes homosexuels. Popularisé par les « Notes on Camp » (1964) de l’essayiste américaine Susan Sontag, il est ensuite défini comme une sensibilité à des objets dont la forme excessive prime sur le fond. Deux approches concurrentes se dessinent : l’une ancre le *camp* dans son contexte homosexuel, tandis que l’autre privilégie une lecture formelle et esthétique. Comment, dès lors, penser le *camp* à partir d’un regard à la fois communautaire et esthétique ?"
+
+image: gaysunshine.jpg
 ---
 
 ## De l’argot homosexuel à la théorie esthétique : histoire et diffusion du terme
