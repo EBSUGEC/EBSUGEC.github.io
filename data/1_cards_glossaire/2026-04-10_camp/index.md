@@ -1,4 +1,6 @@
 ---
+uuid: 3b8283bc-60c4-4e96-bc45-33ef1b1b0d37
+
 
 
 title: "Qu’est-ce que le *camp* ? Approches esthétiques et socio-historiques en Angleterre et aux Etats-Unis (1868-1972)"
