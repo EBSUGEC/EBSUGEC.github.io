@@ -32,3 +32,4 @@ Quand on cherche à changer ses pratiques d’enseignement, à « faire autremen
 | Expliquer une théorie   | Raconter une expérience personnelle   |
 | Parler avec confiance, être sûrE   | Douter, se questionner, montrer son insécurité   |
 | Exposés par les étudiantEs  | Exercices animés par les étudiantEs   |
+| Commencer à parler sans connaître celleux qu’on a devant soi  | Animer un moment de brise-glace   |
