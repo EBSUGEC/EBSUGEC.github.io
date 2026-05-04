@@ -39,7 +39,7 @@ Le cas du Japon, haut lieu de l’imaginaire orientaliste, permet de déstabilis
 
 Saïd avait noté que l’orientalisme repose souvent sur une féminisation de l’Orient. Au-delà de cette féminisation symbolique, et de la corrélative masculinisation de l’Occident, les femmes ont été actrices de l’orientalisme. Dans *Women’s Orients: English Women and the Middle East, 1718–1918* (1992), l’historienne Billie Melmann a étudié des récits de voyage de femmes britanniques. Elle remet en question l'idée de représentations homogènes, et masculines, de l’orientalisme en étudiant la manière dont ces récits présentent le « harem ». Les écrivaines britanniques l'évoquent souvent en des termes éloignés des représentations sexualisées et exotiques que l'on trouve dans les écrits et œuvres d’art masculins comme *Le Bain turc* d’Ingres (ill. 2). 
 
-![Ill. 2. Jean-Auguste Dominique Ingres, *Le Bain Turc*, 1862. Source : musée du Louvre, département des Peintures.](bainturc.jpg)
+![Ill. 2. Jean-Auguste Dominique Ingres, *Le Bain Turc*, 1862. Source : musée du Louvre, département des Peintures.](ingres.png)
 
 Elles mettent plutôt l'accent sur la vie quotidienne et domestique. Le « harem » apparaît aussi régulièrement comme un contre-modèle aux droits et rôles limités des femmes dans la société européenne, plutôt que comme un symbole de servitude féminine.
 
