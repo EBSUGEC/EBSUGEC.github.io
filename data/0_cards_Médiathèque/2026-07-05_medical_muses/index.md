@@ -1,4 +1,6 @@
 ---
+uuid: ec877257-bff9-44f4-81d6-4820e9cfb5e1
+
 
 
 title: "Les hystériques de la Salpêtrière au 19e siècle faisaient-elles semblant d’être malades ?"
