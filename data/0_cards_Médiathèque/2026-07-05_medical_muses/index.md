@@ -15,7 +15,7 @@ tags:
     - santé
     - partenariat EHNE
 
-abstract: "Dans l’ouvrage Medical Muses. Hysteria in Nineteenth-Century, Asti Hustvedt étudie trois patientes de Charcot – Blanche, Augustine et Geneviève –, hystériques célèbres des années 1870, à La Salpêtrière. Le diagnostic d’hystérique, honteux, est pourtant emblématique de la condition féminine au 19e siècle et de ses empêchements. L’hystérie, à cette période, n’est pas seulement une préoccupation de médecins mais un imaginaire social incarné dans la presse, les photographies, sculptures, peintures, dessins et romans. Les hystériques en constituent les protagonistes : la théâtralité des symptômes est aussi à comprendre comme le seul espace d’expression possible pour la souffrance de ces femmes."
+abstract: "Dans l’ouvrage *Medical Muses. Hysteria in Nineteenth-Century*, Asti Hustvedt étudie trois patientes de Charcot – Blanche, Augustine et Geneviève –, hystériques célèbres des années 1870, à La Salpêtrière. Le diagnostic d’hystérique, honteux, est pourtant emblématique de la condition féminine au 19e siècle et de ses empêchements. L’hystérie, à cette période, n’est pas seulement une préoccupation de médecins mais un imaginaire social incarné dans la presse, les photographies, sculptures, peintures, dessins et romans. Les hystériques en constituent les protagonistes : la théâtralité des symptômes est aussi à comprendre comme le seul espace d’expression possible pour la souffrance de ces femmes."
 ---
 
 ## Une histoire de l'hystérie par les patientes
