@@ -41,9 +41,19 @@ Partant de ce constat, comment représenter visuellement les positions multiples
 C’est à cette question que la géographe et activiste féministe Maria Rodó-Zárate cherche à répondre en proposant la méthode des « Relief Maps », qui permettent de collecter, analyser et représenter des données intersectionnelles. Lors de son doctorat, elle étudie le rapport de la jeunesse aux espaces publics dans la ville de Manresa, en Catalogne : face à la grande diversité des participant·es en termes d’âge, de genre, d’orientation sexuelle, de racialisation et de classe sociale, elle crée d’abord un outil papier destiné à être utilisé par les participant·es elleux-mêmes. Les personnes se situent sur deux axes, l’un représentant le degré de confort (associé au sentiment d’être « à sa place »), l’autre les différents espaces fréquentés. En fonction des émotions ressenties dans la fréquentation de ces lieux et des commentaires, insultes, agressions reçues, la chercheuse peut établir des courbes, dont chaque couleur représente une catégorisation sociale. Le graphique permet de voir comment celles-ci interagissent entre elles et avec différents contextes socio-spatiaux. Les catégories sociales sont utilisées de manière dynamique et non essentialisante, car ce ne sont pas les catégories elles-mêmes mais les rapports de pouvoir qui sont représentés. L’autre intérêt des Relief Maps est qu’elles permettent de représenter le croisement des oppressions (figure 1), mais aussi des privilèges (figure 2), en fonction des contextes et des caractéristiques des participant·es.
 
 
-![alt text](fig1.png)
-![alt text](fig2.png)
-Les "relief maps" de Sara et Marc, © Maria Rodó de Zárate. Issues de : Rodó de Zárate, Maria. (2023). [Intersectionality and the Spatiality of Emotions in Feminist Research](https://doi.org/10.1080/00330124.2022.2075406). *The Professional Geographer*, 75(4), 676 681. 
+![](fig1.png)
+![Les "relief maps" de Sara et Marc, © Maria Rodó de Zárate. Issues de : Rodó de Zárate, Maria. (2023). [Intersectionality and the Spatiality of Emotions in Feminist Research](https://doi.org/10.1080/00330124.2022.2075406). *The Professional Geographer*, 75(4), 676 681.](fig2.png)
 
 
 Maria Rodó-Zárate a développé une [version digitale de son outil, ReliefMaps+](https://reliefmaps.upf.edu), accessible à tous·tes. Cette plate-forme permet aux chercheur·euses de créer leur propre projet, de collecter des données et de les représenter sous forme de Relief Maps. 
+
+## Bibliographie
+
+Bilge, Sirma, Hill Collins, Patricia, & Maistre, Julie. (2023). *Intersectionnalité : Une introduction*. Éditions Amsterdam.
+
+Mayenga, Evé. (2023). [Les traductions françaises de l’intersectionnalité : Race, mondes académiques et profits intellectuels](https://doi.org/10.5281/ZENODO.10246750). *Marronages*. 
+
+Rodó de Zárate, Maria. (2023). [Intersectionality and the Spatiality of Emotions in Feminist Research](https://doi.org/10.1080/00330124.2022.2075406). *The Professional Geographer*, 75(4), 676 681.
+
+Yuval-Davis, Nira. (2015). [Situated Intersectionality and Social Inequality](https://doi.org/10.3917/rai.058.0091). *Raisons politiques*, N° 58(2), 91 100. 
+
